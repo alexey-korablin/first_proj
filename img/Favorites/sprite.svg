@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg">
+	<symbol viewBox="0 0 66 44" id="si-duo-code">
+		<title class="">Code</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Code" transform="translate(2.000000, 1.000000)" stroke-width="2" class="">
+				<path d="M18,3 L0,21 L18,39" id="Shape" stroke="#6D6E71" class="si-duo-code-less-than-sign si-duo-code-stroke si-duo-code-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M44,3 L62,21 L44,39" id="Shape" stroke="#6D6E71" class="si-duo-code-greater-than-sign si-duo-code-stroke si-duo-code-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M23,42 L38,0" id="Shape" stroke="#1396D7" class="si-duo-code-forward-slash si-duo-code-stroke si-duo-code-accent si-duo-stroke si-duo-accent" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 52 63" id="si-harmony-backpack">
+		<title class="">Backpack</title>
+		<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M32.996,7.919C32.952,4.09,29.839,1,26,1  s-6.952,3.09-6.996,6.919C1.875,7.919,1,8.64,1,21c0,3.783,0.714,6.482,2,8.408V59c0,1.104,0.896,3,2,3h42c1.104,0,2-1.896,2-3  V29.408c1.286-1.926,2-4.625,2-8.408C51,8.64,50.125,7.919,32.996,7.919L32.996,7.919z" class="si-harmony-backpack-main si-harmony-backpack-thick si-harmony-backpack-thick-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+		<path fill="none" stroke="#58595B" d="M42.5,53.142c0,6.399-7.389,5.812-16.5,5.812  c-9.11,0-16.499,0.759-16.499-5.812C9.501,39.375,16.89,39,26,39C35.111,39,42.5,39.625,42.5,53.142L42.5,53.142z" class="si-harmony-backpack-pocket si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill-opacity="1" fill="#9ca5b8" d="M29.938,9h-7.875c0-2.175,1.763-3.938,3.938-3.938S29.938,6.825,29.938,9L29.938,9z" class="si-harmony-backpack-handle si-harmony-backpack-fill si-harmony-fill si-harmony-inner-fill"/>
+		<path fill="none" stroke="#58595B" d="M14.583,8v17.921" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M37.583,8v17.921" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<rect x="12.5" y="26" fill="none" stroke="#58595B" width="4" height="3.083" class="si-harmony-backpack-lock si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<rect x="35.5" y="26" fill="none" stroke="#58595B" width="4" height="3.083" class="si-harmony-backpack-lock si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M14.5,29.417V50" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M37.5,29.417V50" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M13.062,50.5H16" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M36.062,50.5H39" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M17.166,55.5H35" class="si-harmony-backpack-line si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M6.583,56.083v5.584" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M45.583,56.083v5.584" class="si-harmony-backpack-strap si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<circle fill="none" stroke="#58595B" cx="25.001" cy="18.499" r="2.499" class="si-harmony-backpack-circle si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+		<path fill="none" stroke="#58595B" d="M51,21c0,14.426-11.193,12.502-25,12.502C12.193,33.502,1,35.426,1,21" class="si-harmony-backpack-lid si-harmony-backpack-thin si-harmony-backpack-thin-stroke si-harmony-backpack-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+	</symbol>
+	<symbol viewBox="0 0 51 64" id="si-harmony-book-bookmark">
+		<title class="">Book-bookmark</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M46.997,7V4    c0-1.657-1.344-3-3-3h-41c-1.656,0-3,1.343-3,3C-0.003,4.127,0,58,0,58c0,2.206,1.795,4,4,4h41.997c1.656,0,3-1.343,3-3V10    C48.997,8.343,47.935,7,46.997,7L46.997,7z" class="si-harmony-book-bookmark-main si-harmony-book-bookmark-thick si-harmony-book-bookmark-thick-stroke si-harmony-book-bookmark-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill="none" stroke="#58595B" d="M6.56,7v55" class="si-harmony-book-bookmark-line1 si-harmony-book-bookmark-line si-harmony-book-bookmark-thin si-harmony-book-bookmark-thin-stroke si-harmony-book-bookmark-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill-opacity="1" fill="#e6f38f" stroke="#58595B" d="M47,7.5H3.351c-2.289,0-2.976-1.595-2.976-3.562    l0,0C0.375,1.97,1.354,1,2.997,1" class="si-harmony-book-bookmark-main si-harmony-book-bookmark-thin si-harmony-book-bookmark-thin-stroke si-harmony-book-bookmark-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill="none" stroke="#58595B" d="M4.166,3.5H43" class="si-harmony-book-bookmark-line2 si-harmony-book-bookmark-line si-harmony-book-bookmark-thin si-harmony-book-bookmark-thin-stroke si-harmony-book-bookmark-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M4.166,5.5H43" class="si-harmony-book-bookmark-line2 si-harmony-book-bookmark-line si-harmony-book-bookmark-thin si-harmony-book-bookmark-thin-stroke si-harmony-book-bookmark-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M41,26c0,1.104-0.25,2-1,2l-3-9l-3,9c-1.104,0-1-0.896-1-2V8h8    V26L41,26z" class="si-harmony-book-bookmark-bookmark si-harmony-book-bookmark-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 63 44" id="si-harmony-hamburger">
+		<title class="">Hamburger</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(2.000000, 2.000000)" stroke="#58595B" class="">
+				<g class="">
+					<path fill-opacity="1" fill="#e6f38f" stroke-opacity="1" stroke="#585952" d="M56.242,15.053 L54.885,15.053 C54.318,6.331 50.875,-0.083 30,-0.083 C9.125,-0.083 5.683,6.331 5.115,15.053 L4,15.053 C1.228,15.053 -0.021,17.128 -0.021,19.689 L-0.021,20.462 C-0.021,23.023 1.228,25.097 4,25.097 L5.072,25.097 C5.497,34.207 8.516,41 30,41 C51.484,41 54.503,34.207 54.928,25.097 L56.242,25.097 C59.016,25.097 60,23.023 60,20.462 L60,19.689 C60,17.128 59.017,15.053 56.242,15.053 L56.242,15.053 Z" stroke-width="2" class="si-harmony-hamburger-main si-harmony-hamburger-thick si-harmony-hamburger-thick-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+					<path d="M5,24.5 L7.999,24.5 L12.126,27.5 L17,24.5 L19.999,24.5 L29,28.5 L38.125,24.5 L41,24.5 L46.125,27.625 L51,24.5 L55,24.5" class="si-harmony-hamburger-vegetable si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M5.115,15.428 L55,15.428" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M19,4.5 L20.958,4.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M38,4.5 L39.958,4.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M24,2.5 L25.958,2.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M33,2.5 L34.958,2.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M28,1.5 L29.958,1.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M22,6.5 L23.958,6.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M28,5.5 L29.958,5.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M35,6.5 L36.958,6.5" class="si-harmony-hamburger-nut si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+					<path d="M7.625,24.531 L50.25,24.531" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				</g>
+				<path d="M4.062,18.469 L13.938,18.469" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M11.062,21.438 L29.938,21.438" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M26.062,18.438 L42,18.438" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M43.062,21.438 L57.938,21.438" class="si-harmony-hamburger-meat si-harmony-hamburger-thin si-harmony-hamburger-thin-stroke si-harmony-hamburger-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 64" id="si-harmony-lightbulb">
+		<title>Slice 161</title>
+		<desc>Created with Sketch.</desc>
+		<defs/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+			<g id="Group" sketch:type="MSLayerGroup" transform="translate(-1180.000000, -494.000000)" stroke="#58595B">
+				<path d="M1208.398,535.906 C1208.398,526.995 1204.898,518.906 1204.898,518.906 C1204.898,520.636 1206.181,521.939 1207.858,521.939 C1209.538,521.939 1210.899,520.661 1210.899,518.931 C1210.899,520.661 1212.26,521.939 1213.939,521.939 C1215.617,521.939 1216.897,520.636 1216.897,518.906 C1216.897,518.906 1213.397,525.717 1213.397,535.906" id="Shape" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-filament si-harmony-thin si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill-opacity="1" fill="#e6f38f" stroke-opacity="1" stroke="#585952" d="M1210.898,495 C1200.404,495 1191.898,503.675 1191.898,514.375 C1191.898,525.322 1200.898,533.468 1200.898,540 L1200.898,548 C1200.898,549.861 1202.176,551.412 1203.898,551.858 L1203.898,554.031 C1203.898,555.671 1207.033,557 1210.899,557 C1214.766,557 1217.899,555.671 1217.899,554.031 L1217.899,551.858 C1219.62,551.411 1220.897,549.861 1220.897,548 L1220.897,540 C1220.897,533.468 1229.897,525.419 1229.897,514.375 C1229.898,503.675 1221.391,495 1210.898,495 L1210.898,495 Z" id="Shape" stroke-width="2" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-glass si-harmony-thick si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-fill si-harmony-main-fill"/>
+				<path d="M1203.898,551.5 L1217.898,551.5" id="Shape" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-foot-contact1 si-harmony-thin si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M1200.898,538.5 L1220.898,538.5" id="Shape" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-foot-contact2 si-harmony-thin si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M1200.898,542.5 L1220.898,542.5" id="Shape" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-foot-contact3 si-harmony-thin si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M1200.898,546.5 L1220.898,546.5" id="Shape" sketch:type="MSShapeGroup" class="si-harmony-lightbulb-foot-contact4 si-harmony-thin si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 54" id="si-harmony-message-dot">
+		<title class="">Message-dot</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="    M53.906,37.729c5.029-4.009,8.096-9.342,8.094-15.195C61.996,10.085,48.113-0.004,30.992,0.002    C13.873,0.007-0.004,10.106,0,22.555c0.004,12.451,13.887,22.538,31.008,22.532c5.043-0.002,9.803-0.884,14.012-2.44l13.356,6.558    C58.376,49.205,56.252,43.54,53.906,37.729L53.906,37.729z" class="si-harmony-message-dot-message-bubble si-harmony-message-dot-thick si-harmony-message-dot-thick-stroke si-harmony-message-dot-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-fill si-harmony-main si-harmony-main-fill"/>
+				<ellipse fill-opacity="1" fill="#9ca5b8" cx="18.869" cy="22.882" rx="2.869" ry="2.882" class="si-harmony-message-dot-dot-left si-harmony-message-dot-dot si-harmony-message-dot-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M33.919,22.958c0,1.612-1.312,2.918-2.932,2.918    c-1.619,0.002-2.933-1.303-2.934-2.914c0-1.613,1.312-2.919,2.932-2.921C32.605,20.04,33.919,21.345,33.919,22.958L33.919,22.958z    " class="si-harmony-message-dot-dot-middle si-harmony-message-dot-dot si-harmony-message-dot-fill si-harmony-fill si-harmony-inner-fill"/>
+				<ellipse fill-opacity="1" fill="#9ca5b8" cx="42.932" cy="22.886" rx="2.932" ry="2.886" class="si-harmony-message-dot-dot-right si-harmony-message-dot-dot si-harmony-message-dot-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 56 63" id="si-harmony-mushroom">
+		<title class="">Mushroom</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="M26.594,0    C11.947,0,0.073,11.802,0.073,26.357c0,10.455,8.121,9.19,19.047,7.752c0,0-0.036,4.244-0.036,7.443    c0,14.069-7.444,19.447,7.511,19.447c14.406,0,7.328-4.135,7.328-19.609c0-3.203,0.267-7.282,0.267-7.282    c10.932,1.437,18.927,2.704,18.927-7.751C53.115,11.802,41.24,0,26.594,0L26.594,0z" class="si-harmony-mushroom-main si-harmony-mushroom-thick si-harmony-mushroom-thick-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill="none" stroke="#58595B" d="M35.138,33.765    c-2.682-0.373-5.555-0.699-8.544-0.699c-2.943,0-5.774,0.327-8.42,0.708" class="si-harmony-mushroom-line si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M21.479,36.167c1.188,8.333-1,18.75-1,18.75" class="si-harmony-mushroom-line si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M34.526,6.961c0,1.975-1.591,3.576-3.553,3.576    c-1.964,0-3.555-1.602-3.555-3.576c0-1.98,1.591-3.583,3.555-3.583C32.936,3.378,34.526,4.98,34.526,6.961L34.526,6.961z" class="si-harmony-mushroom-circle si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M13.526,14.961c0,1.975-1.591,3.576-3.553,3.576    c-1.964,0-3.555-1.602-3.555-3.576c0-1.98,1.591-3.583,3.555-3.583C11.936,11.378,13.526,12.98,13.526,14.961L13.526,14.961z" class="si-harmony-mushroom-circle si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M46.526,20.961c0,1.975-1.591,3.576-3.553,3.576    c-1.964,0-3.555-1.602-3.555-3.576c0-1.98,1.591-3.583,3.555-3.583C44.936,17.378,46.526,18.98,46.526,20.961L46.526,20.961z" class="si-harmony-mushroom-circle si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M24.526,26.961c0,1.975-1.591,3.576-3.553,3.576    c-1.964,0-3.555-1.602-3.555-3.576c0-1.98,1.591-3.583,3.555-3.583C22.936,23.378,24.526,24.98,24.526,26.961L24.526,26.961z" class="si-harmony-mushroom-circle si-harmony-mushroom-thin si-harmony-mushroom-thin-stroke si-harmony-mushroom-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 39 67" id="si-harmony-owl">
+		<title class="">Owl</title>
+		<g class="">
+			<g transform="translate(1.000000, 4.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="M36,0    l-7.08,10.228C26.135,8.207,22.719,7,19.015,7h-2.112c-3.68,0-7.075,1.189-9.851,3.187L0,0v39.098C0,48.432,7.568,56,16.902,56    h2.112c9.334,0,16.902-7.568,16.902-16.902L36,0L36,0z" class="si-harmony-owl-main si-harmony-owl-thick si-harmony-owl-thick-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<circle fill="none" stroke="#58595B" stroke-linejoin="round" cx="10.083" cy="19.083" r="7.083" class="si-harmony-owl-eyes si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<circle fill-opacity="1" fill="#9ca5b8" cx="10.458" cy="19.458" r="2.458" class="si-harmony-owl-eyes si-harmony-owl-fill si-harmony-fill si-harmony-inner-fill"/>
+				<circle fill-opacity="1" fill="#9ca5b8" cx="24.458" cy="19.458" r="2.458" class="si-harmony-owl-eyes si-harmony-owl-fill si-harmony-fill si-harmony-inner-fill"/>
+				<circle fill="none" stroke="#58595B" stroke-linejoin="round" cx="25.042" cy="19.042" r="7.042" class="si-harmony-owl-eyes si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M-0.172,32.136    c8.396,1.718,14.709,9.146,14.709,18.047c0,2.033-0.328,3.989-0.938,5.818" class="si-harmony-owl-wing si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M22.435,56.001    c-0.606-1.823-0.935-3.772-0.935-5.799c0-8.755,6.128-16.078,14.329-17.915" class="si-harmony-owl-wing si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M9.5,44v10.583" class="si-harmony-owl-line si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M26.5,44v10.583" class="si-harmony-owl-line si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M31.5,39v10.917" class="si-harmony-owl-line si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M4.5,39v10.917" class="si-harmony-owl-line si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" stroke-linejoin="round" d="M14.011,25.5l3.875,6    l3.697-6" class="si-harmony-owl-mouth si-harmony-owl-thin si-harmony-owl-thin-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path stroke-opacity="1" fill="none" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="    M15.062,55.938v6.229" class="si-harmony-owl-leg si-harmony-owl-thick si-harmony-owl-thick-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thick-stroke"/>
+				<path stroke-opacity="1" fill="none" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="    M21.062,55.938v6.229" class="si-harmony-owl-leg si-harmony-owl-thick si-harmony-owl-thick-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thick-stroke"/>
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" stroke-linejoin="round" d="    M25,59.459C25,61.415,25.817,62,20.875,62h-7.833c-2.278,0-2.125-0.586-2.125-2.541l0,0c0-1.957-0.153-3.542,2.125-3.542h7.833    C25.817,55.917,25,57.499,25,59.459L25,59.459L25,59.459z" class="si-harmony-owl-leg si-harmony-owl-thick si-harmony-owl-thick-stroke si-harmony-owl-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main-fill si-harmony-fill si-harmony-main"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 34" id="si-harmony-piano-keyboard">
+		<title class="">Piano-keyboard</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" fill="#e6f38f" stroke-opacity="1" d="M62,28 C62,30.209 60.209,32 58,32 L4,32 C1.791,32 0,30.209 0,28 L0,4 C0,1.791 1.791,0 4,0 L58,0 C60.209,0 62,1.791 62,4 L62,28 L62,28 Z" stroke="#585952" stroke-width="2" class="si-harmony-piano-keyboard-main si-harmony-piano-keyboard-thick si-harmony-piano-keyboard-thick-stroke si-harmony-piano-keyboard-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" d="M13.984,16.47 C13.984,17.514 13.204,18 12.242,18 L8.758,18 C7.796,18 7.016,17.514 7.016,16.47 L7.016,0 L13.985,0 L13.985,16.47 L13.984,16.47 Z" fill="#9ca5b8" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" d="M28,16.505 C28,17.549 27.216,18 26.249,18 L22.75,18 C21.784,18 21,17.549 21,16.505 L21,0 L28,0 L28,16.505 L28,16.505 Z" fill="#9ca5b8" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" d="M40.958,16.439 C40.958,17.486 40.18,18 39.219,18 L35.74,18 C34.779,18 34,17.486 34,16.439 L34,0 L40.958,0 L40.958,16.439 L40.958,16.439 Z" fill="#9ca5b8" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" d="M55,16.11 C55,17.153 54.216,18 53.25,18 L49.75,18 C48.784,18 48,17.153 48,16.11 L48,0 L55,0 L55,16.11 L55,16.11 Z" fill="#9ca5b8" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path d="M10.542,18 L10.542,32" stroke="#58595B" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-thin si-harmony-piano-keyboard-thin-stroke si-harmony-piano-keyboard-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M24.583,18 L24.583,32" stroke="#58595B" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-thin si-harmony-piano-keyboard-thin-stroke si-harmony-piano-keyboard-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M37.562,18 L37.562,32" stroke="#58595B" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-thin si-harmony-piano-keyboard-thin-stroke si-harmony-piano-keyboard-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M51.562,18 L51.562,32" stroke="#58595B" class="si-harmony-piano-keyboard-keyboard si-harmony-piano-keyboard-thin si-harmony-piano-keyboard-thin-stroke si-harmony-piano-keyboard-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 47 64" id="si-harmony-test-tube-2">
+		<title class="">Test-tube-2</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M30.049,24.083V6H31    c1.104,0,2-0.896,2-2V2c0-1.104-0.896-2-2-2H14c-1.104,0-2,0.896-2,2v2c0,1.104,0.896,2,2,2h0.986v17.98L0.035,53.675    c0,6.653,15.202,8.324,22.688,8.324S45,60.328,45,53.675L30.049,24.083L30.049,24.083z" class="si-harmony-test-tube-2-test-tube si-harmony-test-tube-2-thick si-harmony-test-tube-2-thick-stroke si-harmony-test-tube-2-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M22.733,59c-9.595,0-18.482-2.251-19.57-4.885l9.686-18.937    c1.632,0.329,4.396,1.312,7.892,4.184c2.948,2.421,6.012,3.648,9.105,3.648c1.925,0,3.842-0.497,5.604-1.445l6.443,12.556    C40.823,56.752,32.123,59,22.733,59L22.733,59z" class="si-harmony-test-tube-2-water si-harmony-test-tube-2-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill="none" stroke="#58595B" d="M15.083,5.417H30" class="si-harmony-test-tube-2-line si-harmony-test-tube-2-thin si-harmony-test-tube-2-thin-stroke si-harmony-test-tube-2-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 62 62" id="si-harmony-website-checked">
+		<title class="">Website-checked</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" fill="#e6f38f" stroke-opacity="1" d="M60,57 C60,58.657 58.657,60 57,60 L3,60 C1.343,60 0,58.657 0,57 L0,3 C0,1.343 1.343,0 3,0 L57,0 C58.657,0 60,1.343 60,3 L60,57 L60,57 Z" stroke="#585952" stroke-width="2" class="si-harmony-website-checked-main si-harmony-website-checked-thick si-harmony-website-checked-thick-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path d="M0.125,10.5 L60.125,10.5" stroke="#58595B" class="si-harmony-website-checked-line si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<circle fill-opacity="1" fill="#9ca5b8" stroke="#58595B" cx="6.084" cy="5.084" r="2.084" class="si-harmony-website-checked-button1 si-harmony-website-checked-button si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-fill si-harmony-inner-fill"/>
+				<circle stroke="#58595B" cx="14.084" cy="5.084" r="2.084" class="si-harmony-website-checked-button2 si-harmony-website-checked-button si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<circle stroke="#58595B" cx="22.084" cy="5.084" r="2.084" class="si-harmony-website-checked-button3 si-harmony-website-checked-button si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M8.125,24.438 L37.875,24.438" stroke="#58595B" class="si-harmony-website-checked-text si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M8.125,32.438 L52,32.438" stroke="#58595B" class="si-harmony-website-checked-text si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path d="M8.125,41.438 L52,41.438" stroke="#58595B" class="si-harmony-website-checked-text si-harmony-website-checked-thin si-harmony-website-checked-thin-stroke si-harmony-website-checked-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill-opacity="1" d="M57.616,48.37 L55.526,46.294 C55.142,45.912 54.519,45.912 54.134,46.294 L47.869,52.52 L45.78,50.445 C45.395,50.063 44.772,50.063 44.387,50.445 L42.298,52.52 C41.914,52.902 41.914,53.521 42.298,53.903 L45.08,56.667 C45.081,56.668 45.081,56.67 45.082,56.671 L47.172,58.746 C47.557,59.128 48.18,59.128 48.565,58.746 L57.615,49.754 C58,49.37 58,48.752 57.616,48.37 L57.616,48.37 L57.616,48.37 Z" fill="#9ca5b8" class="si-harmony-website-checked-checked si-harmony-website-checked-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 39" id="si-harmony-box-download">
+		<title class="">Box-download</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M60.657,16.119L58,2    c0-1.104-0.896-2-2-2H6C4.896,0,4,0.896,4,2L1.343,16.119C0.563,16.392,0,17.127,0,18v17c0,1.104,0.896,2,2,2h58    c1.104,0,2-0.896,2-2V18C62,17.127,61.438,16.393,60.657,16.119L60.657,16.119z" class="si-harmony-box-download-main si-harmony-box-download-thick si-harmony-box-download-thick-stroke si-harmony-box-download-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M39.033,19.092H22.922c-0.969,0-0.964-0.987-0.964-2.092H40.04C40.041,18.104,40.131,19.092,39.033,19.092    L39.033,19.092z" class="si-harmony-box-download-handle si-harmony-box-download-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" fill="#e6f38f" stroke="#58595B" d="M0.917,16.583h59.5" class="si-harmony-box-download-main si-harmony-box-download-thin si-harmony-box-download-thin-stroke si-harmony-box-download-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M54.147,3H34v5h3l-6,8l-6-8h3V3H7.853    C7.276,3,6.809,3.467,6.809,4.043L4.75,16.875h52.5L55.191,4.043C55.191,3.467,54.725,3,54.147,3L54.147,3z" class="si-harmony-box-download-inner si-harmony-box-download-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 39" id="si-harmony-box-empty">
+		<title class="">Box-empty</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M60.657,16.119L58,2    c0-1.104-0.896-2-2-2H6C4.896,0,4,0.896,4,2L1.343,16.119C0.563,16.392,0,17.127,0,18v17c0,1.104,0.896,2,2,2h58    c1.104,0,2-0.896,2-2V18C62,17.127,61.438,16.393,60.657,16.119L60.657,16.119z" class="si-harmony-box-empty-main si-harmony-box-empty-thick si-harmony-box-empty-thick-stroke si-harmony-box-empty-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M39.033,19.092H22.85c-0.95,0-0.892-1.046-0.892-2.092H40.04C40.041,18.104,40.131,19.092,39.033,19.092    L39.033,19.092z" class="si-harmony-box-empty-handle si-harmony-box-empty-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" fill="#e6f38f" stroke="#58595B" d="M0.917,16.583h59.5" class="si-harmony-box-empty-main si-harmony-box-empty-thin si-harmony-box-empty-thin-stroke si-harmony-box-empty-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M5.166,16.875L7.192,4.198c0-0.569,0.459-1.031,1.026-1.031    H53.78c0.567,0,1.026,0.462,1.026,1.031l2.026,12.677" class="si-harmony-box-empty-inner si-harmony-box-empty-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 39" id="si-harmony-box-upload">
+		<title class="">Box-upload</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M60.657,16.119L58,2    c0-1.104-0.896-2-2-2H6C4.896,0,4,0.896,4,2L1.343,16.119C0.563,16.392,0,17.127,0,18v17c0,1.104,0.896,2,2,2h58    c1.104,0,2-0.896,2-2V18C62,17.127,61.438,16.393,60.657,16.119L60.657,16.119z" class="si-harmony-box-upload-main si-harmony-box-upload-thick si-harmony-box-upload-thick-stroke si-harmony-box-upload-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M39.085,19.144H23.196c-1.098,0-1.186-0.987-1.186-2.092h18.082    C40.093,18.156,40.183,19.144,39.085,19.144L39.085,19.144z" class="si-harmony-box-upload-handle si-harmony-box-upload-fill si-harmony-fill si-harmony-inner-fill"/>
+				<path fill-opacity="1" fill="#e6f38f" stroke="#58595B" d="M0.917,16.583h59.5" class="si-harmony-box-upload-main si-harmony-box-upload-thin si-harmony-box-upload-thin-stroke si-harmony-box-upload-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill-opacity="1" fill="#9ca5b8" d="M54.961,4.198c0-0.569-0.462-1.031-1.033-1.031H32.625L37,9h-3    v7h-6V9h-3l4.375-5.833H8.072c-0.571,0-1.033,0.462-1.033,1.031L5,16.875h52L54.961,4.198L54.961,4.198z" class="si-harmony-box-upload-inner si-harmony-box-upload-fill si-harmony-fill si-harmony-inner-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 65 65" id="si-harmony-sword">
+		<title class="">Sword</title>
+		<g class="">
+			<g transform="translate(1.000000, 2.000000)" class="">
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M22.369,50.001    c-0.924-0.924-2.045-1.47-3.104-1.61L60.953,6.703C61.734,5.923,62,0,62,0s-5.923,0.266-6.704,1.047L13.608,42.735    c-0.14-1.059-0.687-2.18-1.61-3.104c-1.822-1.822-2.993-3.606-4.36-2.239c-1.367,1.367-2.411,5.367-0.589,7.189    c0.924,0.924,2.238,2.475,0.274,4.438l-7.11,8.524c-0.781,0.781,0.789,2.203,1.414,2.829c0.626,0.625,2.048,2.194,2.829,1.414    l8.524-7.111c2.141-2.141,3.515-0.648,4.438,0.275c1.822,1.822,5.822,0.778,7.189-0.589S24.191,51.824,22.369,50.001    L22.369,50.001z" class="si-harmony-sword-sword si-harmony-sword-thick si-harmony-sword-thick-stroke si-harmony-sword-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main-fill si-harmony-fill si-harmony-main"/>
+				<path fill="none" stroke="#58595B" d="M57.653,6.35L21.19,42.813" class="si-harmony-sword-line1 si-harmony-sword-line si-harmony-sword-thin si-harmony-sword-thin-stroke si-harmony-sword-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M7.698,48.852l5.422,5.421" class="si-harmony-sword-line2 si-harmony-sword-line si-harmony-sword-thin si-harmony-sword-thin-stroke si-harmony-sword-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M4.87,51.68l5.422,5.422" class="si-harmony-sword-line2 si-harmony-sword-line si-harmony-sword-thin si-harmony-sword-thin-stroke si-harmony-sword-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<path fill="none" stroke="#58595B" d="M2.889,54.901l4.183,4.181" class="si-harmony-sword-line2 si-harmony-sword-line si-harmony-sword-thin si-harmony-sword-thin-stroke si-harmony-sword-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 58 64" id="si-harmony-television">
+		<title class="">Television</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path stroke-opacity="1" fill="none" stroke="#585952" stroke-width="2" stroke-linecap="round" d="M32.586,8.341L40,0" class="si-harmony-television-antenna si-harmony-television-thick si-harmony-television-thick-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thick-stroke"/>
+				<path stroke-opacity="1" fill="none" stroke="#585952" stroke-width="2" stroke-linecap="round" d="M18.366,8.286L11,0" class="si-harmony-television-antenna si-harmony-television-thick si-harmony-television-thick-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thick-stroke"/>
+				<path fill-opacity="1" stroke-opacity="1" fill="#e6f38f" stroke="#585952" stroke-width="2" d="M54,13H34c0-3.866-3.83-7-8.556-7s-8.556,3.134-8.556,7    H38.75H2c-1.104,0-2,0.896-2,2v36c0,1.104,0.896,2,2,2h46H10.562L8,60c0,1.104,0.896,2,2,2l7-9h21l8,9c1.104,0,2-0.896,2-2l-3-7h9    c1.104,0,2-0.896,2-2V15C56,13.896,55.104,13,54,13L54,13L54,13z" class="si-harmony-television-main si-harmony-television-thick si-harmony-television-thick-stroke si-harmony-television-strokea si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/>
+				<path fill="none" stroke="#58595B" d="M42.5,47.372c0,1.133-0.919,2.051-2.052,2.051H5.551    c-1.133,0-2.051-0.918-2.051-2.051V18.628c0-1.133,0.918-2.051,2.051-2.051h34.897c1.133,0,2.052,0.918,2.052,2.051V47.372    L42.5,47.372z" class="si-harmony-television-screen si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<circle fill-opacity="1" fill="#9ca5b8" stroke="#58595B" cx="49.521" cy="44.521" r="3.521" class="si-harmony-television-switch si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-inner-fill si-harmony-fill"/>
+				<circle fill-opacity="1" fill="#9ca5b8" stroke="#58595B" cx="49.5" cy="36.5" r="2.5" class="si-harmony-television-switch si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke si-harmony-fill si-harmony-inner-fill"/>
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-miterlimit="10" x1="46" y1="21" x2="52" y2="21" class="si-harmony-television-speaker si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-miterlimit="10" x1="52" y1="23" x2="46" y2="23" class="si-harmony-television-speaker si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-miterlimit="10" x1="46" y1="25" x2="52" y2="25" class="si-harmony-television-speaker si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+				<line fill="none" stroke="#58595B" stroke-linecap="round" stroke-miterlimit="10" x1="52" y1="27" x2="46" y2="27" class="si-harmony-television-speaker si-harmony-television-thin si-harmony-television-thin-stroke si-harmony-television-stroke si-harmony-stroke si-harmony-thin-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 62 62" id="si-duo-button-dot">
+		<title class="">Button-dot</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Button-dot" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<g id="Page-1" class="">
+					<g id="Button-dot" class="">
+						<circle id="Oval_3_" stroke="#6D6E71" cx="30" cy="30" r="30" class="si-duo-button-dot-circle si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+						<circle id="Oval" stroke="#6D6E71" cx="17" cy="30" r="4" class="si-duo-button-dot-dot-left si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+						<circle id="Oval_1_" stroke="#1396D7" cx="30" cy="30" r="4" class="si-duo-button-dot-dot-middle si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+						<circle id="Oval_2_" stroke="#6D6E71" cx="43" cy="30" r="4" class="si-duo-button-dot-dot-right si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 36" id="si-duo-dollar-money">
+		<title class="">Dollar-money</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Dollar-money" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<g id="Page-1" class="">
+					<g id="Dollar-money" class="">
+						<rect id="Rectangle-path" stroke="#6D6E71" x="0" y="0" width="62" height="34" class="si-duo-dollar-money-main si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M10,30 L52,30" id="Shape_2_" stroke="#6D6E71" class="si-duo-dollar-money-line si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M10,4 L52,4" id="Shape_3_" stroke="#6D6E71" class="si-duo-dollar-money-line si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<circle id="Oval" stroke="#6D6E71" cx="31" cy="17" r="13" class="si-duo-dollar-money-circle si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M27,21.3 C27,23.3 28.8,25 31,25 C33.2,25 35,23.4 35,21.3 C35,18.3 31,16.9 31,16.9 C31,16.9 27,15.4 27,12.5 C27,10.5 28.8,8.8 31,8.8 C33.2,8.8 35,10.4 35,12.5" id="Shape" stroke="#1396D7" class="si-duo-dollar-money-dollar si-duo-dollar-money-stroke si-duo-dollar-money-accent si-duo-stroke si-duo-accent" style=""/>
+						<path d="M31.1,5 L31.1,28.9" id="Shape_1_" stroke="#1396D7" class="si-duo-dollar-money-dollar si-duo-dollar-money-stroke si-duo-dollar-money-accent si-duo-stroke si-duo-accent" style=""/>
+						<path d="M7,1 C7,4.3 4.3,7 1,7" id="Shape_4_" stroke="#6D6E71" class="si-duo-dollar-money-angle si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M1,27 C4.3,27 7,29.7 7,33" id="Shape_5_" stroke="#6D6E71" class="si-duo-dollar-money-angle si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M55,33 C55,29.7 57.7,27 61,27" id="Shape_6_" stroke="#6D6E71" class="si-duo-dollar-money-angle si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M61,7 C57.7,7 55,4.3 55,1" id="Shape_7_" stroke="#6D6E71" class="si-duo-dollar-money-angle si-duo-dollar-money-stroke si-duo-dollar-money-base si-duo-stroke si-duo-base" style=""/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 58 63" id="si-duo-easel-chart">
+		<title class="">Easel-chart</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Easel-chart" stroke-width="2" class="">
+				<rect id="Rectangle-path" stroke="#6D6E71" x="3" y="8" width="52" height="37" class="si-duo-easel-chart-canvas si-duo-easel-chart-stroke si-duo-easel-chart-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M29,0 L29,4" id="Shape" stroke="#6D6E71" class="si-duo-easel-chart-stand si-duo-easel-chart-stroke si-duo-easel-chart-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M8,62 L15,48" id="Shape" stroke="#1396D7" class="si-duo-easel-chart-stand si-duo-easel-chart-stroke si-duo-easel-chart-accent si-duo-stroke si-duo-accent" style=""/>
+				<path d="M50,62 L43,48" id="Shape" stroke="#1396D7" class="si-duo-easel-chart-stand si-duo-easel-chart-stroke si-duo-easel-chart-accent si-duo-stroke si-duo-accent" style=""/>
+				<path d="M0,48 L58,48" id="Shape" stroke="#6D6E71" class="si-duo-easel-chart-bar si-duo-easel-chart-stroke si-duo-easel-chart-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M0,5 L58,5" id="Shape" stroke="#6D6E71" class="si-duo-easel-chart-bar si-duo-easel-chart-stroke si-duo-easel-chart-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M8,38 L15.5,30.5 L23,35 L35,21 L43,21 L49.5,14.5" id="Shape" stroke="#1396D7" class="si-duo-easel-chart-line-chart si-duo-easel-chart-stroke si-duo-easel-chart-accent si-duo-stroke si-duo-accent" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 43 64" id="si-duo-feet">
+		<title class="">Feet</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Feet" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<path d="M15.573,24.202 C15.573,24.202 17.87,18.351 16.615,12.071 C15.362,5.788 14.408,2.675 11.602,0.807 C10.336,-0.035 4.29,-1.578 1.995,4.92 C-0.304,11.419 -1.781,16.149 4.339,27.013 C4.34,27.017 9.517,25.282 15.573,24.202 L15.573,24.202 Z" id="Shape" stroke="#6D6E71" class="si-duo-feet-feet-left si-duo-feet-feet si-duo-feet-stroke si-duo-feet-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M16.756,28.816 L5.588,31.162 C5.588,31.162 6.178,37.127 7.546,40.537 C8.914,43.946 12.052,44.585 14.99,43.518 C17.932,42.455 19.299,39.896 18.907,37.126 C18.52,34.355 16.756,28.816 16.756,28.816 L16.756,28.816 Z" id="Shape" stroke="#6D6E71" class="si-duo-feet-feet-left si-duo-feet-feet si-duo-feet-stroke si-duo-feet-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M25.479,41.696 C25.479,41.696 23.188,35.963 24.437,29.808 C25.687,23.651 26.638,20.6 29.435,18.771 C30.7,17.946 36.724,16.434 39.013,22.801 C41.305,29.17 42.777,33.805 36.679,44.45 C36.675,44.454 31.515,42.755 25.479,41.696 L25.479,41.696 Z" id="Shape" stroke="#1396D7" class="si-duo-feet-feet-right si-duo-feet-feet si-duo-feet-stroke si-duo-feet-accent si-duo-stroke si-duo-accent" style=""/>
+				<path d="M24.269,46.727 L35.643,49.073 C35.643,49.073 35.045,55.037 33.648,58.446 C32.253,61.853 29.058,62.492 26.064,61.425 C23.07,60.363 21.675,57.803 22.076,55.036 C22.471,52.264 24.269,46.727 24.269,46.727 L24.269,46.727 Z" id="Shape" stroke="#1396D7" class="si-duo-feet-feet-right si-duo-feet-feet si-duo-feet-stroke si-duo-feet-accent si-duo-stroke si-duo-accent" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 44 63" id="si-duo-flower">
+		<title class="">Flower</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Flower" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<g id="Page-1" class="">
+					<g id="Flower" class="">
+						<path d="M21,42 L21,62" id="Shape_12_" stroke="#6D6E71" class="si-duo-flower-main si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<circle id="Oval" stroke="#1396D7" cx="21" cy="21" r="3" class="si-duo-flower-stigma si-duo-flower-stroke si-duo-flower-accent si-duo-stroke si-duo-accent" style=""/>
+						<path d="M24,6 C24,9.3 22.7,15 21,15 C19.3,15 18,9.3 18,6 C18,2.7 19.3,0 21,0 C22.7,0 24,2.7 24,6 L24,6 L24,6 Z" id="Shape" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M18,36 C18,32.7 19.3,27 21,27 C22.7,27 24,32.7 24,36 C24,39.3 22.7,42 21,42 C19.3,42 18,39.3 18,36 L18,36 L18,36 Z" id="Shape_1_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M16.1,6.5 C17.8,9.4 19.4,15 18,15.8 C16.6,16.6 12.6,12.4 10.9,9.5 C9.2,6.6 9.1,3.6 10.5,2.8 C11.9,2 14.4,3.6 16.1,6.5 L16.1,6.5 L16.1,6.5 Z" id="Shape_2_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M25.9,35.5 C24.2,32.6 22.6,27 24,26.2 C25.4,25.4 29.4,29.6 31.1,32.5 C32.8,35.4 32.9,38.4 31.5,39.2 C30.1,40 27.6,38.4 25.9,35.5 L25.9,35.5 L25.9,35.5 Z" id="Shape_3_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M9.5,10.9 C12.4,12.6 16.6,16.6 15.8,18 C15,19.4 9.4,17.8 6.5,16.1 C3.6,14.4 2,11.9 2.8,10.5 C3.6,9.1 6.6,9.2 9.5,10.9 L9.5,10.9 L9.5,10.9 Z" id="Shape_4_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M32.5,31.1 C29.6,29.4 25.4,25.4 26.2,24 C27,22.6 32.6,24.2 35.5,25.9 C38.4,27.6 40,30.1 39.2,31.5 C38.4,32.9 35.4,32.8 32.5,31.1 L32.5,31.1 L32.5,31.1 Z" id="Shape_5_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M6,18 C9.3,18 15,19.3 15,21 C15,22.7 9.3,24 6,24 C2.7,24 0,22.7 0,21 C0,19.3 2.7,18 6,18 L6,18 L6,18 Z" id="Shape_6_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M36,24 C32.7,24 27,22.7 27,21 C27,19.3 32.7,18 36,18 C39.3,18 42,19.3 42,21 C42,22.7 39.3,24 36,24 L36,24 L36,24 Z" id="Shape_7_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M6.5,25.9 C9.4,24.2 15,22.6 15.8,24 C16.6,25.4 12.4,29.4 9.5,31.1 C6.6,32.8 3.6,32.9 2.8,31.5 C2,30.1 3.6,27.6 6.5,25.9 L6.5,25.9 L6.5,25.9 Z" id="Shape_8_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M35.5,16.1 C32.6,17.8 27,19.4 26.2,18 C25.4,16.6 29.6,12.6 32.5,10.9 C35.4,9.2 38.4,9.1 39.2,10.5 C40,11.9 38.4,14.4 35.5,16.1 L35.5,16.1 L35.5,16.1 Z" id="Shape_9_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M10.9,32.5 C12.6,29.6 16.6,25.4 18,26.2 C19.4,27 17.8,32.6 16.1,35.5 C14.4,38.4 11.9,40 10.5,39.2 C9.1,38.4 9.2,35.4 10.9,32.5 L10.9,32.5 L10.9,32.5 Z" id="Shape_10_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M31.1,9.5 C29.4,12.4 25.4,16.6 24,15.8 C22.6,15 24.2,9.4 25.9,6.5 C27.6,3.6 30.1,2 31.5,2.8 C32.9,3.6 32.8,6.6 31.1,9.5 L31.1,9.5 L31.1,9.5 Z" id="Shape_11_" stroke="#6D6E71" class="si-duo-flower-petal si-duo-flower-stroke si-duo-flower-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M18.6,50.4 C21.3,55 21.9,59.6 19.9,60.8 C18,61.9 14.3,59.1 11.6,54.5 C8.9,49.9 10.3,44.1 10.3,44.1 C10.3,44.1 15.9,45.8 18.6,50.4 L18.6,50.4 L18.6,50.4 Z" id="Shape_13_" stroke="#1396D7" class="si-duo-flower-leaf si-duo-flower-stroke si-duo-flower-accent si-duo-stroke si-duo-accent" style=""/>
+						<path d="M31.8,44.1 C31.8,44.1 33,49.8 30.3,54.4 C27.6,59 23.9,61.9 22.1,60.8 C20.3,59.7 20.9,55.1 23.6,50.5 C26.3,45.9 31.8,44.1 31.8,44.1 L31.8,44.1 L31.8,44.1 Z" id="Shape_14_" stroke="#1396D7" class="si-duo-flower-leaf si-duo-flower-stroke si-duo-flower-accent si-duo-stroke si-duo-accent" style=""/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 44 64" id="si-duo-gameboy">
+		<title class="">Gameboy</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Gameboy" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<rect id="Rectangle-path" stroke="#6D6E71" x="0" y="0" width="42" height="62" class="si-duo-gameboy-main si-duo-gameboy-stroke si-duo-gameboy-base si-duo-stroke si-duo-base" style=""/>
+				<rect id="Rectangle-path" stroke="#6D6E71" x="6" y="5" width="30" height="27" class="si-duo-gameboy-screen si-duo-gameboy-stroke si-duo-gameboy-base si-duo-stroke si-duo-base" style=""/>
+				<path d="M9,41 L9,51" id="Shape" stroke="#1396D7" class="si-duo-gameboy-control-pad si-duo-gameboy-stroke si-duo-gameboy-accent si-duo-stroke si-duo-accent" style=""/>
+				<path d="M4,46 L14,46" id="Shape" stroke="#1396D7" class="si-duo-gameboy-control-pad si-duo-gameboy-stroke si-duo-gameboy-accent si-duo-stroke si-duo-accent" style=""/>
+				<circle id="Oval" stroke="#1396D7" cx="34" cy="42" r="3" class="si-duo-gameboy-switch-button si-duo-gameboy-stroke si-duo-gameboy-accent si-duo-stroke si-duo-accent" style=""/>
+				<circle id="Oval" stroke="#1396D7" cx="27" cy="50" r="3" class="si-duo-gameboy-switch-button si-duo-gameboy-stroke si-duo-gameboy-accent si-duo-stroke si-duo-accent" style=""/>
+				<path d="M9,58 L33,58" id="Shape" stroke="#6D6E71" class="si-duo-gameboy-line si-duo-gameboy-stroke si-duo-gameboy-base si-duo-stroke si-duo-base" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 45 66" id="si-duo-lightbulb">
+		<title class="">Lightbulb</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Lightbulb" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+				<path d="M15,63.938 L27,63.938" id="Shape" stroke="#1396D7" class="si-duo-lightbulb-base si-duo-lightbulb-stroke si-duo-lightbulb-accent si-duo-base si-duo-stroke si-duo-accent" style=""/>
+				<path d="M13,58.938 L29,58.938" id="Shape" stroke="#1396D7" class="si-duo-lightbulb-base si-duo-lightbulb-stroke si-duo-lightbulb-accent si-duo-base si-duo-stroke si-duo-accent" style=""/>
+				<path d="M11,53.938 L31,53.938" id="Shape" stroke="#1396D7" class="si-duo-lightbulb-base si-duo-lightbulb-stroke si-duo-lightbulb-accent si-duo-base si-duo-stroke si-duo-accent" style=""/>
+				<path d="M32.275,49.056 C32.275,41.934 42.041,33.16 42.041,21.121 C42.041,9.457 32.629,0 21.02,0 C9.411,0 -0.001,9.457 -0.001,21.121 C-0.001,33.055 9.492,41.826 9.492,48.946 L32.275,49.056 L32.275,49.056 Z" id="Shape" stroke="#6D6E71" class="si-duo-lightbulb-bulb si-duo-lightbulb-stroke si-duo-lightbulb-base si-duo-stroke si-duo-base" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 52" id="si-duo-map">
+		<title class="">Map</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Map" transform="translate(1.000000, 2.000000)" stroke-width="2" class="">
+				<g id="Page-1" class="">
+					<g id="Map" class="">
+						<path d="M62,41 L42,48 L21,41 L0,48 L0,7 L21,0 L42,7 L62,0 L62,41 L62,41 Z" id="Shape_2_" stroke="#6D6E71" class="si-duo-map-main si-duo-map-stroke si-duo-map-base si-duo-stroke si-duo-base" style=""/>
+						<path d="M21,1 L21,40" id="Shape" stroke="#1396D7" class="si-duo-map-line si-duo-map-stroke si-duo-map-accent si-duo-stroke si-duo-accent" style=""/>
+						<path d="M42,8 L42,47" id="Shape_1_" stroke="#1396D7" class="si-duo-map-line si-duo-map-stroke si-duo-map-accent si-duo-stroke si-duo-accent" style=""/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 40" id="si-duo-piano">
+		<title class="">Piano</title>
+		<g id="Page-1" class="">
+			<g id="Piano" transform="translate(1.000000, 1.000000)" class="">
+				<rect id="Rectangle-path" fill="none" stroke="#6D6E71" stroke-width="2" width="62" height="38" class="si-duo-piano-main si-duo-piano-storke si-duo-piano-base si-duo-base" style="">
+				</rect>
+				<path id="Shape" fill="none" stroke="#6D6E71" stroke-width="2" d="M9,27v10" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<rect id="Rectangle-path_1_" x="7" y="14" fill="none" stroke="#1396D7" stroke-width="2" width="4" height="14" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-accent si-duo-stroke si-duo-accent" style="">
+				</rect>
+				<path id="Shape_1_" fill="none" stroke="#6D6E71" stroke-width="2" d="M19,27v10" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<rect id="Rectangle-path_2_" x="17" y="14" fill="none" stroke="#1396D7" stroke-width="2" width="4" height="14" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-accent si-duo-stroke si-duo-accent" style="">
+				</rect>
+				<path id="Shape_2_" fill="none" stroke="#6D6E71" stroke-width="2" d="M35,27v10" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<rect id="Rectangle-path_3_" x="33" y="14" fill="none" stroke="#1396D7" stroke-width="2" width="4" height="14" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-accent si-duo-stroke si-duo-accent" style="">
+				</rect>
+				<path id="Shape_3_" fill="none" stroke="#6D6E71" stroke-width="2" d="M52,27v10" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<rect id="Rectangle-path_4_" x="50" y="14" fill="none" stroke="#1396D7" stroke-width="2" width="4" height="14" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-accent si-duo-stroke si-duo-accent" style="">
+				</rect>
+				<path id="Shape_4_" fill="none" stroke="#6D6E71" stroke-width="2" d="M1,12h60" class="si-duo-piano-main si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape_5_" fill="none" stroke="#6D6E71" stroke-width="2" d="M27,12v25" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape_6_" fill="none" stroke="#6D6E71" stroke-width="2" d="M43,12v25" class="si-duo-piano-keyboard si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape_7_" fill="none" stroke="#6D6E71" stroke-width="2" d="M56,5h3" class="si-duo-piano-button si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape_8_" fill="none" stroke="#6D6E71" stroke-width="2" d="M45,5h8" class="si-duo-piano-button si-duo-piano-stroke si-duo-piano-base si-duo-stroke si-duo-base" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 67 58" id="si-duo-stack">
+		<title class="">Stack</title>
+		<g id="Page-1" class="">
+			<g id="Stack" transform="translate(2.000000, 2.000000)" class="">
+				<path id="Shape_1_" fill="none" stroke="#6D6E71" stroke-width="2" d="M6.81,31.013l-6.548,4.015    L31.217,54l30.955-18.972l-6.548-4.015" class="si-duo-stack-layer-bottom si-duo-stack-layer si-duo-stack-stroke si-duo-stack-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape" fill="none" stroke="#1396D7" stroke-width="2" d="M55.624,22.987L62.172,27    L31.217,45.972L0.262,27l6.548-4.013" class="si-duo-stack-layer-middle si-duo-stack-layer si-duo-stack-stroke si-duo-stack-accent si-duo-stroke si-duo-accent" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#6D6E71" stroke-width="2" d="M31.217,37.945l30.955-18.973    L31.217,0L0.262,18.972L31.217,37.945z" class="si-duo-stack-layer-top si-duo-stack-layer si-duo-stack-stroke si-duo-stack-base si-duo-stroke si-duo-base" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 56" id="si-duo-t-shirt">
+		<title class="">T-shirt</title>
+		<g id="Page-1" class="">
+			<g id="T-shirt" transform="translate(1.000000, 1.000000)" class="">
+				<path id="Shape_3_" fill="none" stroke="#6D6E71" stroke-width="2" d="M52,0H38.931    C38.438,3.945,35.078,7,31,7s-7.438-3.055-7.931-7H10H0v15h10v39h42V15h10V0H52L52,0z" class="si-duo-t-shirt-t-shirt si-duo-t-shirt-stroke si-duo-t-shirt-base si-duo-stroke si-duo-base" style=""/>
+				<path id="Shape" fill="none" stroke="#1396D7" stroke-width="2" d="M11,50h32" class="si-duo-t-shirt-line si-duo-t-shirt-stroke si-duo-t-shirt-accent si-duo-stroke si-duo-accent" style=""/>
+				<path id="Shape_1_" fill="none" stroke="#1396D7" stroke-width="2" d="M4,1v11" class="si-duo-t-shirt-line si-duo-t-shirt-stroke si-duo-t-shirt-accent si-duo-stroke si-duo-accent" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#1396D7" stroke-width="2" d="M58,1v11" class="si-duo-t-shirt-line si-duo-t-shirt-stroke si-duo-t-shirt-accent si-duo-stroke si-duo-accent" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 38 64" id="si-duo-test-tube">
+		<title class="">Test-tube</title>
+		<g id="Page-1" class="">
+			<g id="Test-tube" transform="translate(0.000000, 1.000000)" class="">
+				<g id="Group" class="">
+					<path id="Shape_1_" fill="none" stroke="#6D6E71" stroke-width="2" d="M5,1v47c0,7.732,6.268,14,14,14s14-6.268,14-14V0" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+					<path id="Shape" fill="none" stroke="#6D6E71" stroke-width="2" d="M0,0h38" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+					<path id="Shape_2_" fill="none" stroke="#6D6E71" stroke-width="2" d="M5,20c0,0,6.667,6.667,15,0s13,0,13,0" class="si-duo-test-tube-wave-line si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+				</g>
+				<circle id="Oval" fill="none" stroke="#1396D7" stroke-width="2" cx="11" cy="49" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+				</circle>
+				<circle id="Oval_1_" fill="none" stroke="#1396D7" stroke-width="2" cx="17" cy="32" r="4" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+				</circle>
+				<circle id="Oval_2_" fill="none" stroke="#1396D7" stroke-width="2" cx="27" cy="42" r="3" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+				</circle>
+				<circle id="Oval_3_" fill="none" stroke="#1396D7" stroke-width="2" cx="23" cy="11" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+				</circle>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 52" id="si-duo-trolley-down">
+		<title class="">Trolley-down</title>
+		<g id="Page-1" class="">
+			<g id="Trolley-down" transform="translate(0.000000, 1.000000)" class="">
+				<g id="Group" transform="translate(0.000000, 1.000000)" class="">
+					<path id="Shape" fill="none" stroke="#6D6E71" stroke-width="2" d="M57,9h5l-6,22H16" class="si-duo-trolley-down-basket si-duo-trolley-down-stroke si-duo-trolley-down-base si-duo-stroke si-duo-base" style=""/>
+					<path id="Shape_1_" fill="none" stroke="#6D6E71" stroke-width="2" d="M0,0h9l9,40h39" class="si-duo-trolley-down-hand si-duo-trolley-down-stroke si-duo-trolley-down-base si-duo-stroke si-duo-base" style=""/>
+					<circle id="Oval" fill="none" stroke="#1396D7" stroke-width="2" cx="26" cy="45" r="4" class="si-duo-trolley-down-wheel si-duo-trolley-down-stroke si-duo-trolley-down-accent si-duo-stroke si-duo-accent" style=""/>
+					<circle id="Oval_1_" fill="none" stroke="#1396D7" stroke-width="2" cx="50" cy="45" r="4" class="si-duo-trolley-down-wheel si-duo-trolley-down-stroke si-duo-trolley-down-accent si-duo-stroke si-duo-accent" style=""/>
+					<path id="Shape_3_" fill="none" stroke="#6D6E71" stroke-width="2" d="M40,9H11" class="si-duo-trolley-down-basket si-duo-trolley-down-stroke si-duo-trolley-down-base si-duo-stroke si-duo-base" style=""/>
+				</g>
+				<path id="Shape_2_" fill="none" stroke="#6D6E71" stroke-width="2" d="M57,10h-6V0h-6v10h-6l9,10    L57,10z" class="si-duo-trolley-down-delete si-duo-trolley-down-stroke si-duo-trolley-down-base si-duo-stroke si-duo-base" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 38" id="si-duo-zeppelin">
+		<title class="">Zeppelin</title>
+		<g id="Page-1" class="">
+			<g id="Zeppelin" transform="translate(1.000000, 1.000000)" class="">
+				<path id="Shape" fill="none" stroke="#1396D7" stroke-width="2" d="M60,19.999V28h-4l-3-3" class="si-duo-zeppelin-rudder si-duo-zeppelin-stroke si-duo-zeppelin-accent si-duo-stroke si-duo-accent" style=""/>
+				<path id="Shape_1_" fill="none" stroke="#1396D7" stroke-width="2" d="M53,4.995L56,2h4v7.996" class="si-duo-zeppelin-rudder si-duo-zeppelin-stroke si-duo-zeppelin-accent si-duo-stroke si-duo-accent" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#6D6E71" stroke-width="2" d="M43,29v7H19v-7" class="si-duo-zeppelin-gondola si-duo-zeppelin-stroke si-duo-zeppelin-base si-duo-stroke si-duo-base" style=""/>
+				<ellipse id="Oval_1_" fill="none" stroke="#6D6E71" stroke-width="2" cx="31" cy="15" rx="31" ry="15" class="si-duo-zeppelin-main si-duo-zeppelin-stroke si-duo-zeppelin-base si-duo-stroke si-duo-base" style="">
+				</ellipse>
+				<ellipse id="Oval" fill="none" stroke="#1396D7" stroke-width="2" cx="31" cy="15" rx="31" ry="7" class="si-duo-zeppelin-main si-duo-zeppelin-stroke si-duo-zeppelin-accent si-duo-stroke si-duo-accent" style="">
+				</ellipse>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-baby">
+		<title>787</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(5.000000, 0.000000)" fill="#434343">
+				<path d="M5.975,1.988 C5.975,3.085 5.089,3.971 4,3.971 C2.914,3.971 2.028,3.084 2.028,1.988 C2.028,0.892 2.914,0.005 4,0.005 C5.089,0.00500000001 5.975,0.893 5.975,1.988 L5.975,1.988 Z" class="si-glyph-fill"/>
+				<path d="M5.854,10.032 C6.154,10.342 5.958,10.488 5.849,10.597 L4.826,11.729 C4.527,12.04 3.447,12.041 3.149,11.731 L2.15,10.618 C2.09,10.557 1.853,10.364 2.155,10.052 L5.854,10.032 L5.854,10.032 Z" class="si-glyph-fill"/>
+				<path d="M5.875,5.35 C5.631,5.154 5.336,5.035 5.013,5.035 L2.993,5.035 C2.665,5.035 2.363,5.161 2.117,5.363 C2.097,5.377 0.081,8.137 0.081,8.137 C-0.037,8.325 0.00199999999,8.589 0.168,8.726 C0.252,8.791 0.354,8.814 0.445,8.796 C0.539,8.777 0.625,8.72 0.684,8.625 L2.02,7.581 L2.02,8.56 C2.02,8.56 1.83775974,8.95699993 2.47875974,8.95699993 L5.589,8.957 C5.937,8.957 5.999,8.56 5.999,8.56 L5.999,7.609 L7.335,8.637 C7.396,8.732 7.481,8.79 7.576,8.809 C7.669,8.826 7.768,8.804 7.852,8.738 C8.021,8.603 8.06,8.34 7.941,8.149 C7.941,8.149 5.931,5.38 5.875,5.35 Z" class="si-glyph-fill"/>
+				<path d="M2.421,15.964 C2.248,15.964 1.897,15.838 1.795,15.664 L0.529,13.355 C0.384,13.111 1.441,11.101 1.441,11.101 L2.595,12.382 C2.595,12.382 2.028,13.037 2.009,13.222 C1.989,13.407 2.863,15.015 2.863,15.015 C3.03,15.291 2.966,15.671 2.719,15.859 C2.628,15.931 2.523,15.964 2.421,15.964 L2.421,15.964 Z" class="si-glyph-fill"/>
+				<path d="M5.531,15.964 C5.705,15.964 6.056,15.838 6.159,15.664 L7.424,13.355 C7.569,13.111 6.513,11.101 6.513,11.101 L5.359,12.382 C5.359,12.382 5.927,13.037 5.946,13.222 C5.965,13.407 5.091,15.015 5.091,15.015 C4.924,15.291 4.988,15.671 5.234,15.859 C5.325,15.931 5.43,15.964 5.531,15.964 L5.531,15.964 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 16 16" id="si-glyph-bandage">
+		<title>Bandage</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g fill="#555555">
+				<path d="M0.927,10.543 C-0.238,11.711 -0.25,13.59 0.902,14.742 L1.256,15.096 C2.407,16.246 4.285,16.235 5.451,15.069 L6.987,13.535 L2.462,9.012 L0.927,10.543 L0.927,10.543 Z" class="si-glyph-fill"/>
+				<path d="M15.129,1.222 L14.775,0.868 C13.623,-0.283 11.742,-0.27 10.57,0.899 L9.008,2.463 L13.535,6.988 L15.097,5.425 C16.266,4.256 16.279,2.373 15.129,1.222 L15.129,1.222 Z" class="si-glyph-fill"/>
+				<path d="M3.469,7.969 L8,12.469 L12.562,8.031 L7.974,3.385 L3.469,7.969 L3.469,7.969 Z M8.026,6.026 L6.979,6.026 L6.979,4.979 L8.026,4.979 L8.026,6.026 L8.026,6.026 Z M10.026,8.042 L8.979,8.042 L8.979,6.98 L10.026,6.98 L10.026,8.042 L10.026,8.042 Z M10.011,10.042 L8.98,10.042 L8.98,8.98 L10.011,8.98 L10.011,10.042 L10.011,10.042 Z M8.011,8.042 L6.98,8.042 L6.98,6.98 L8.011,6.98 L8.011,8.042 L8.011,8.042 Z M6.011,8.042 L4.98,8.042 L4.98,6.98 L6.011,6.98 L6.011,8.042 L6.011,8.042 Z M8.026,10.042 L6.979,10.042 L6.979,8.98 L8.026,8.98 L8.026,10.042 L8.026,10.042 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 16 16" id="si-glyph-bicycle-1">
+		<title>638</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(0.000000, 2.000000)" fill="#434343">
+				<path d="M2.998,6.023 C1.356,6.023 0.016,7.361 0.016,9.005 C0.016,10.651 1.356,11.988 2.998,11.988 C4.643,11.988 5.981,10.65 5.981,9.005 C5.981,7.361 4.643,6.023 2.998,6.023 L2.998,6.023 Z M2.998,11.047 C1.873,11.047 0.958,10.131 0.958,9.006 C0.958,7.881 1.873,6.966 2.998,6.966 C4.124,6.966 5.039,7.881 5.039,9.006 C5.039,10.131 4.124,11.047 2.998,11.047 L2.998,11.047 Z" class="si-glyph-fill"/>
+				<path d="M12.985,6.065 C11.365,6.065 10.05,7.389 10.05,9.017 C10.05,10.644 11.364,11.968 12.985,11.968 C14.601,11.968 15.917,10.644 15.917,9.017 C15.917,7.39 14.602,6.065 12.985,6.065 L12.985,6.065 Z M12.949,11.03 C11.83,11.03 10.92,10.121 10.92,9.006 C10.92,7.89 11.83,6.981 12.949,6.981 C14.07,6.981 14.978,7.89 14.978,9.006 C14.979,10.121 14.07,11.03 12.949,11.03 L12.949,11.03 Z" class="si-glyph-fill"/>
+				<path d="M6.712,7.944 C6.417,7.944 6.177,7.705 6.177,7.41 L5.404,3.906 L4.605,3.906 C4.277,3.906 4.02,3.524 4.02,3.038 C4.02,2.544 4.272,2.171 4.605,2.171 C7.047,2.495 6.969,2.897 6.969,3.031 C6.969,3.526 6.795,3.906 6.461,3.906 L6.431,3.906 L7.114,6.613 L11.579,4.455 L11.286,3.549 C11.226,3.364 11.272,3.161 11.406,3.019 L12.521,0.958 L10.605,0.958 C10.31,0.958 10.071,0.719 10.071,0.425 C10.071,0.13 10.31,-4.54747351e-13 10.605,-4.54747351e-13 L13.455,-4.54747351e-13 C13.669,-4.54747351e-13 13.862,0.018 13.946,0.213 C14.03,0.409 13.99,0.636 13.844,0.79 L12.389,3.486 L12.953,5.578 C13.042,5.858 12.888,6.159 12.608,6.25 C12.548,6.268 12.493,6.275 12.441,6.275 C12.21,6.275 12.001,6.122 11.932,5.903 L11.804,5.57 C11.805,5.57 6.766,7.944 6.712,7.944 L6.712,7.944 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 16 16" id="si-glyph-biscuit">
+		<title>607</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<path d="M14.8,6.826 C14.745,6.706 14.676,6.597 14.583,6.519 L14.559,6.51 C14.44,6.404 14.3,6.32 14.141,6.271 L9.352,4.126 C9.731,3.69 9.969,3.129 9.969,2.507 C9.969,1.139 8.861,0.03 7.492,0.03 C6.123,0.03 5.015,1.138 5.015,2.507 C5.015,3.14 5.259,3.711 5.65,4.149 L0.863,6.312 C0.221,6.514 -0.121,7.248 0.101,7.949 L0.126,8.029 C0.348,8.73 1.048,9.134 1.69,8.931 L3.672,7.967 C4.163,7.922 4.57,7.935 4.687,8.046 C4.999,8.341 2.868,12.415 2.263,13.607 C1.825,14.466 2.028,15.447 2.715,15.795 L2.79,15.834 C3.478,16.183 4.348,15.746 4.826,14.909 C5.17,14.306 6.344,11.327 7.402,11.327 C8.46,11.326 9.878,14.304 10.184,14.909 C10.622,15.768 11.533,16.182 12.22,15.834 L12.296,15.795 C12.984,15.446 13.187,14.466 12.747,13.607 C12.362,12.846 9.912,8.547 10.121,8.046 C10.189,7.882 10.696,7.92 11.361,8.025 L13.309,8.89 C13.952,9.093 14.651,8.689 14.873,7.988 L14.898,7.908 C15.023,7.525 14.973,7.137 14.8,6.826 L14.8,6.826 Z M8.061,5.979 L8.061,7.031 L6.907,7.031 L6.907,5.979 L8.061,5.979 L8.061,5.979 Z M8.062,10.062 L6.906,10.062 L6.906,8.906 L8.062,8.906 L8.062,10.062 L8.062,10.062 Z" fill="#434343" class="si-glyph-fill"/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-bomb-2">
+		<title>663</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 0.000000)" fill="#434343">
+				<path d="M15.427,0.016 C15.334,0.968 14.573,1.271 13.332,1.655 C12.748,1.837 12.127,2.034 11.62,2.375 C10.73,1.902 10.109,2.012 10.109,2.012 L8.808,3.628 C10.087,4.039 11.175,4.845 11.912,5.899 L13.2,4.296 C13.2,4.296 13.295,3.608 12.242,2.783 C12.62,2.583 13.067,2.439 13.529,2.296 C14.664,1.944 15.854,1.464 15.999,9.09494702e-13 L15.427,0.016 L15.427,0.016 Z" class="si-glyph-fill"/>
+				<path d="M7.857,4.364 C7.261,4.165 6.627,4.052 5.962,4.052 C2.669,4.052 -0.001,6.722 -0.001,10.016 C-0.001,13.31 2.669,15.979 5.962,15.979 C9.256,15.979 11.925,13.31 11.925,10.016 C11.925,8.788 11.554,7.65 10.919,6.701 C10.193,5.616 9.119,4.787 7.857,4.364 L7.857,4.364 Z M6.299,6.077 C3.592,6.077 2.137,7.586 2.137,10.043 L1.031,10.043 C1.031,7.408 3.243,5.233 6.069,4.964 C6.068,4.964 6.457,6.077 6.299,6.077 L6.299,6.077 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-bone">
+		<title>1042</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<path d="M3.321,13.61 C3.321,13.61 3.383,14.874 3.97,15.462 C4.654,16.145 5.751,16.156 6.422,15.486 C7.376,14.532 7.506,13.213 7.392,12.119 L13.158,6.354 C14.245,6.463 15.562,6.327 16.533,5.356 C17.195,4.694 17.18,3.604 16.499,2.922 C15.91,2.334 14.713,2.345 14.713,2.345 C14.713,2.345 14.675,1.099 14.082,0.506 C13.396,-0.182 12.293,-0.197 11.625,0.473 C10.655,1.443 10.54,2.795 10.667,3.902 L4.939,9.631 C3.848,9.522 2.523,9.657 1.544,10.635 C0.88,11.298 0.893,12.385 1.569,13.062 C2.156,13.646 3.321,13.61 3.321,13.61 L3.321,13.61 Z" fill="#434343" class="si-glyph-fill"/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-bubble-message-dot-2">
+		<title>1049</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<path d="M9.019,1.04 C4.621,1.04 1.051,3.66 1.051,6.892 C1.051,9.842 4.026,12.276 7.893,12.679 L5.845,15.929 L11.964,12.326 C14.906,11.465 16.989,9.358 16.989,6.891 C16.989,3.66 13.42,1.04 9.019,1.04 L9.019,1.04 Z M6,8 L4,8 L4,6 L6,6 L6,8 L6,8 Z M10,8 L8,8 L8,6 L10,6 L10,8 L10,8 Z M14,8 L12,8 L12,6 L14,6 L14,8 L14,8 Z" fill="#434343" class="si-glyph-fill"/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-calculator">
+		<title>958</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 0.000000)" fill="#434343">
+				<path d="M14.689,0.041 L9.083,0.041 L9.083,6.917 L15.958,6.917 L15.958,1.299 C15.958,0.605 15.391,0.041 14.689,0.041 L14.689,0.041 Z M14.044,4.045 L10.938,4.045 L10.938,2.938 L14.044,2.938 L14.044,4.045 L14.044,4.045 Z" class="si-glyph-fill"/>
+				<path d="M9,15.958 L14.674,15.958 C15.384,15.958 15.958,15.389 15.958,14.684 L15.958,9.042 L9,9.042 L9,15.958 L9,15.958 Z M10.953,10.969 L14.023,10.969 L14.023,12.031 L10.953,12.031 L10.953,10.969 L10.953,10.969 Z M10.953,12.953 L14,12.953 L14,14.047 L10.953,14.047 L10.953,12.953 L10.953,12.953 Z" class="si-glyph-fill"/>
+				<path d="M6.898,0.041 L1.326,0.041 C0.638,0.041 0.083,0.605 0.083,1.3 L0.083,6.923 L6.898,6.923 L6.898,0.041 L6.898,0.041 Z M5,4.023 L4.016,4.023 L4.016,5.062 L2.98,5.062 L2.98,4.023 L1.959,4.023 L1.959,2.982 L2.98,2.982 L2.98,1.98 L4.016,1.98 L4.016,2.982 L5,2.982 L5,4.023 L5,4.023 Z" class="si-glyph-fill"/>
+				<path d="M0.083,14.676 C0.083,15.385 0.645,15.958 1.338,15.958 L6.958,15.958 L6.958,9 L0.083,9 L0.083,14.676 L0.083,14.676 Z M2.443,10.709 L3.489,11.756 L4.537,10.707 L5.269,11.439 L4.221,12.488 L5.282,13.549 L4.547,14.285 L3.485,13.224 L2.463,14.245 L1.731,13.513 L2.752,12.492 L1.707,11.445 L2.443,10.709 L2.443,10.709 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-comb">
+		<title>720</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<path d="M14.563,2.427 L16.951,4.816 C17.234,3.841 16.234,2.102 14.461,0.33 C13.219,-0.914 9.874,1.705 6.244,5.336 C2.615,8.965 0.076,12.228 1.318,13.471 C3.056,15.208 4.851,16.246 5.842,15.951 L3.441,13.551 C3.117,13.227 3.104,12.717 3.41,12.41 L4.899,10.922 L7.704,13.727 C8.037,14.06 8.529,14.105 8.807,13.829 C9.082,13.553 9.037,13.059 8.705,12.727 L5.899,9.922 L7.899,7.923 L10.704,10.727 C11.037,11.06 11.529,11.105 11.807,10.829 C12.082,10.553 12.037,10.059 11.705,9.727 L8.9,6.922 L10.9,4.923 L13.705,7.727 C14.038,8.06 14.53,8.105 14.808,7.829 C15.083,7.553 15.038,7.059 14.706,6.727 L11.901,3.922 L13.424,2.399 C13.73,2.091 14.24,2.104 14.563,2.427 L14.563,2.427 Z" fill="#434343" class="si-glyph-fill"/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-control-pad-">
+		<title>1005</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 1.000000)" fill="#434343">
+				<path d="M3.277,6.048 C0.933,6.048 0.035,8.006 0.035,10.42 L0.035,10.586 C0.035,13.002 0.933,14.959 3.277,14.959 L12.752,14.959 C15.096,14.959 15.994,13.002 15.994,10.586 L15.994,10.42 C15.994,8.006 15.096,6.048 12.752,6.048 L3.277,6.048 L3.277,6.048 Z M7,11 L5,11 L5,13.016 L4,13.016 L4,11 L2,11 L2,10 L4,10 L4,7.984 L5,7.984 L5,10 L7,10 L7,11 L7,11 Z M11,10 L10,10 L10,9 L11,9 L11,10 L11,10 Z M13,12 L12,12 L12,11 L13,11 L13,12 L13,12 Z" class="si-glyph-fill"/>
+				<path d="M8,6.104 L7,6.104 L7,3 L9.031,3.041 L9,0.047 L10,0.047 L10,4 L8,4 L8,6.104 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-cpu">
+		<title>1067</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 0.000000)" fill="#434343">
+				<g transform="translate(2.000000, 2.000000)">
+					<path d="M9.8297716,0.041 L2.2542284,0.041 C1.03239919,0.041 0.042,1.026 0.042,2.24 L0.042,9.801 C0.042,11.016 1.03239919,12 2.2542284,12 L9.8297716,12 C11.053622,12 12.042,11.016 12.042,9.801 L12.042,2.24 C12.042,1.026 11.053622,0.041 9.8297716,0.041 L9.8297716,0.041 Z M2,10.958 L1,10.958 L1,9.958 L2,9.958 L2,10.958 L2,10.958 Z M2,1.958 L1,1.958 L1,0.958 L2,0.958 L2,1.958 L2,1.958 Z M8.958,8.02823759 C8.958,8.5647517 8.52208163,9 7.98330612,9 L3.93367347,9 C3.39293878,9 2.958,8.5647517 2.958,8.02823759 L2.958,3.97273612 C2.958,3.4352483 3.39293878,3 3.93367347,3 L7.98330612,3 C8.52208163,3 8.958,3.4352483 8.958,3.97273612 L8.958,8.02823759 L8.958,8.02823759 Z M11,10.958 L10,10.958 L10,9.958 L11,9.958 L11,10.958 L11,10.958 Z M11,1.958 L10,1.958 L10,0.958 L11,0.958 L11,1.958 L11,1.958 Z" class="si-glyph-fill"/>
+					<path d="M4.72,4 C4.323,4 4,4.322 4,4.722 L4,7.18 C4,7.578 4.322,7.902 4.72,7.902 L7.156,7.902 C7.552,7.902 7.876,7.579 7.876,7.18 L7.876,4.722 C7.876,4.323 7.553,4 7.156,4 L4.72,4 Z" class="si-glyph-fill"/>
+				</g>
+				<g>
+					<rect x="4" y="0" width="0.871" height="1" class="si-glyph-fill"/>
+					<rect x="11" y="0" width="0.871" height="1" class="si-glyph-fill"/>
+					<rect x="7" y="0" width="0.871" height="1" class="si-glyph-fill"/>
+					<rect x="4" y="15" width="0.959" height="0.896" class="si-glyph-fill"/>
+					<rect x="11" y="15" width="0.876" height="0.896" class="si-glyph-fill"/>
+					<rect x="7" y="15" width="0.918" height="0.896" class="si-glyph-fill"/>
+					<rect x="0" y="11" width="1" height="0.975" class="si-glyph-fill"/>
+					<rect x="0" y="4" width="1" height="0.975" class="si-glyph-fill"/>
+					<rect x="0" y="7" width="1" height="0.975" class="si-glyph-fill"/>
+					<rect x="15" y="11" width="0.957" height="0.975" class="si-glyph-fill"/>
+					<rect x="15" y="7" width="0.957" height="0.975" class="si-glyph-fill"/>
+					<rect x="15" y="4" width="0.957" height="0.975" class="si-glyph-fill"/>
+				</g>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-electron">
+		<title>798</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 0.000000)" fill="#434343">
+				<ellipse cx="7.956" cy="7.964" rx="1.956" ry="1.964" class="si-glyph-fill"/>
+				<path d="M11.977,15.997 C9.557,15.997 6.516,14.453 4.039,11.967 C0.177,8.09 -1.113,3.311 1.103,1.086 C1.808,0.377 2.812,0.002 4.001,0.002 C6.422,0.002 9.463,1.547 11.94,4.034 C15.801,7.91 17.09,12.689 14.876,14.914 C14.171,15.623 13.168,15.997 11.977,15.997 L11.977,15.997 Z M4.002,1.342 C3.161,1.342 2.502,1.574 2.046,2.033 C0.416,3.669 1.761,7.785 4.982,11.019 C7.217,13.263 9.898,14.658 11.977,14.658 C12.819,14.658 13.477,14.426 13.934,13.967 C15.565,12.33 14.219,8.215 10.998,4.981 C8.763,2.736 6.082,1.342 4.002,1.342 L4.002,1.342 Z" class="si-glyph-fill"/>
+				<path d="M4.002,15.997 C2.813,15.997 1.809,15.623 1.104,14.914 C-1.113,12.689 0.177,7.91 4.04,4.033 C6.517,1.547 9.558,0.002 11.978,0.002 C13.169,0.002 14.171,0.377 14.878,1.086 C17.092,3.309 15.802,8.089 11.942,11.967 C9.464,14.453 6.422,15.997 4.002,15.997 L4.002,15.997 Z M11.977,1.341 C9.898,1.341 7.217,2.736 4.982,4.98 C1.761,8.215 0.417,12.331 2.046,13.967 C2.502,14.425 3.161,14.658 4.002,14.658 C6.082,14.658 8.762,13.263 10.998,11.019 C14.219,7.784 15.562,3.667 13.933,2.032 C13.476,1.574 12.818,1.341 11.977,1.341 L11.977,1.341 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-eye-drop">
+		<title>963</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 0.000000)" fill="#434343">
+				<path d="M6.661,4.051 C6.895,2.974 6.61,1.822 5.801,1.005 C4.511,-0.294 2.379,-0.255 1.041,1.094 C-0.296,2.443 -0.337,4.589 0.954,5.889 C1.764,6.705 2.905,6.992 3.977,6.757 L4.579,7.343 L3.999,7.926 L4.501,8.432 L5.047,7.88 L10.109,12.953 L12.984,12.953 L12.984,10.187 L7.777,5.129 L8.305,4.596 L7.805,4.091 L7.25,4.65 L6.661,4.051 L6.661,4.051 Z M12.016,10.422 L12.021,12.045 L10.217,12.054 L5.672,7.344 L7.219,5.719 L12.016,10.422 L12.016,10.422 Z" class="si-glyph-fill"/>
+				<path d="M14.985,14.84 C14.985,15.459 14.545,15.962 13.999,15.962 C13.454,15.962 13.014,15.459 13.014,14.84 C13.014,14.22 13.999,13.063 13.999,13.063 C13.999,13.063 14.985,14.22 14.985,14.84 L14.985,14.84 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 17" id="si-glyph-game-controll">
+		<title>632</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(1.000000, 1.000000)" fill="#434343">
+				<path d="M5.352,6.083 C5.352,6.083 5.021,5.041 3.35,5.041 C1.679,5.041 1.344,7.047 1.344,7.047 L0.008,13.021 C0.008,14.127 0.843,15.026 2.013,15.026 C3.052,15.026 3.872,13.312 4.317,12.124 C4.547,12.267 4.815,12.353 5.104,12.353 C5.877,12.353 6.637,11.638 6.721,10.888 L9.471,10.888 C9.555,11.638 10.055,12.353 10.827,12.353 C11.142,12.353 11.435,12.255 11.677,12.089 C12.114,13.277 12.924,15.027 13.918,15.027 C15.423,15.027 15.924,14.129 15.924,13.022 L14.588,7.048 C14.588,7.048 14.337,5.042 12.582,5.042 C10.827,5.042 10.701,6.084 10.701,6.084 L5.352,6.084 L5.352,6.083 Z" class="si-glyph-fill"/>
+				<path d="M9.041,6.459 L8.041,6.459 L8.041,4.307 C8.031,4.3 7.88,3.38 8.441,2.677 C8.811,2.215 9.377,1.981 10.124,1.981 C11.754,1.981 12,1.545 12,0.043 L13,0.043 C13,1.878 12.52,3.014 10.124,3.014 C9.693,3.014 9.387,3.121 9.217,3.332 C8.945,3.667 9.033,4.207 9.033,4.207 L9.041,6.459 L9.041,6.459 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 17 16" id="si-glyph-mustache">
+		<title>1123</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<path d="M16.907,7.514 C15.346,9.152 14.16,8.704 12.213,6.885 C10.602,5.382 9.279,6.305 8.959,7.6 C8.635,6.303 7.311,5.382 5.701,6.888 C3.758,8.709 2.572,9.159 1.01,7.524 C0.855,9.17 2.524,10.712 4.735,10.965 C6.784,11.199 8.581,10.246 8.96,8.797 C9.343,10.248 11.139,11.198 13.189,10.96 C15.398,10.703 17.064,9.161 16.907,7.514 L16.907,7.514 Z" fill="#434343" class="si-glyph-fill"/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 16 16" id="si-glyph-pin-location-2">
+		<title>Pin-location-2</title>
+		<defs/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			<g transform="translate(2.000000, 0.000000)" fill="#434343">
+				<path d="M6,0.031 C3.283,0.031 1.08,2.15 1.08,4.764 C1.08,5.439 1.23,6.081 1.494,6.662 L6.084,13.983 L10.506,6.662 C10.771,6.081 10.918,5.438 10.918,4.764 C10.918,2.15 8.717,0.031 6,0.031 L6,0.031 Z M6,8.121 C4.295,8.121 2.915,6.734 2.915,5.023 C2.915,3.314 4.295,1.926 6,1.926 C7.703,1.926 9.086,3.314 9.086,5.023 C9.086,6.734 7.703,8.121 6,8.121 L6,8.121 Z M7.977,4.983 C7.977,6.08 7.091,6.968 5.999,6.968 C4.908,6.968 4.022,6.079 4.022,4.983 C4.022,3.888 4.908,3 5.999,3 C7.091,3 7.977,3.889 7.977,4.983 L7.977,4.983 Z" class="si-glyph-fill"/>
+				<path d="M3.29899999,11.8232422 C1.58199999,12.1872422 0.869751004,12.6649999 0.869751004,13.2019999 C0.869751004,13.9709999 2.7,15.031 5.985,15.031 C9.27,15.031 11.1014406,13.9709999 11.1014406,13.2019999 C11.1014406,12.6669999 10.393,12.2032422 8.70000002,11.8232422 L8.7,11.003 C10.565,11.369 11.954,12.104 11.954,13.202 C11.954,14.786 8.87799986,15.9729004 5.98499986,15.9729004 C3.09199986,15.9729004 0.0160000001,14.786 0.0160000001,13.202 C0.0160000001,12.102 1.414,11.353 3.289,11 L3.29899999,11.8232422 Z" class="si-glyph-fill"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 63" id="si-outline-acoustic-guitar">
+		<title class="">Acoustic-guitar</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Acoustic-guitar" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M33.5,45.2 C33.4,44.6 34.4,43.4 35,43.3 C37.1,43 39.1,42.2 40.6,40.7 C44.4,36.9 44.1,30.4 40.3,25.1 L52.6,12.2 C53.3,12.9 54.5,12.9 55.3,12.2 L60.6,7 C61.3,6.3 61.3,5.1 60.6,4.4 L56.6,0.5 C55.9,-0.2 54.7,-0.2 53.9,0.5 L48.6,5.8 C47.9,6.5 47.9,7.7 48.6,8.4 L36.3,21.3 C31,17.5 24.3,17.2 20.5,21 C19,22.5 18.1,24.4 17.9,26.5 C17.8,27.1 16.6,28.1 16,28 C11.3,27.1 6.8,28.2 3.6,31.2 C-2.1,36.9 -0.9,47.4 6.5,54.6 C13.8,61.8 24.5,63.1 30.2,57.4 C33.3,54.4 34.3,49.9 33.5,45.2 L33.5,45.2 Z" id="Shape" class="si-outline-acoustic-guitar-guitar si-outline-acoustic-guitar-stroke si-outline-stroke" style=""/>
+				<ellipse id="Oval" cx="28.7" cy="32.6" rx="4.7" ry="4.6" class="si-outline-acoustic-guitar-sound-hole si-outline-acoustic-guitar-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 60" id="si-outline-building">
+		<title class="">Building</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Building" transform="translate(1.000000, 2.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M60.8,52.1 L58,52.1 L58,20.7 C58,18.5 51,12.8 51,12.8 C51,12.8 37,18.5 37,20.7 L37,56 L31,56 L31,7.9 C31,5.7 22,0 22,0 C22,0 4,5.7 4,7.9 L4,52.1 L1,52.1 C-0.1,52.1 1.83182462e-14,53 1.83182462e-14,54.1 C1.83182462e-14,55.2 -0.1,56.1 1,56.1 L60.8,56.1 C62.2,56.1 62,55.2 62,54.1 C62,53 62.2,52.1 60.8,52.1 L60.8,52.1 Z" id="Shape" class="si-outline-building-building si-outline-building-stroke si-outline-stroke"/>
+				<path d="M22,0 L22,49.1" id="Shape" class="si-outline-building-building si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,11.8 L14,8.8" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,17.7 L14,14.7" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,22.6 L14,19.6" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,27.5 L14,24.6" id="Shape" class="si-outline-building si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,33.4 L14,30.5" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,38.3 L14,35.4" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,44.2 L14,41.3" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M7,49.1 L14,46.2" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,7.9 L19,6.9" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,13.8 L19,12.8" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,18.7 L19,17.7" id="Shape" class="si-outline-building si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,23.6 L19,22.6" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,29.5 L19,28.5" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,34.4 L19,33.4" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,40.3 L19,39.3" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M16,45.2 L19,44.2" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M51,12.8 L51,49.1" id="Shape" class="si-outline-building-building si-outline-building-stroke si-outline-stroke"/>
+				<path d="M40,23.6 L47,20.6" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M40,28.5 L47,25.5" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M40,33.4 L47,30.5" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M40,39.3 L47,36.3" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+				<path d="M40,44.2 L47,41.3" id="Shape" class="si-outline-building-window si-outline-building-stroke si-outline-stroke"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 36" id="si-outline-bus">
+		<title class="">Bus</title>
+		<g id="Page-1" class="">
+			<g id="Bus" transform="translate(1.000000, 1.000000)" class="">
+				<path id="Shape_13_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" d="    M52.8,29H60c1.1,0,2-0.9,2-2L61.969,0.969h-51L7,14l-7,5v8c0,1.1,0.9,2,2,2h5.6" class="si-outline-bus-main si-outline-bus-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" fill="none" stroke="#6B6C6E" stroke-width="2" cx="47.5" cy="28.5" r="5.5" class="si-outline-bus-wheel si-outline-bus-stroke si-outline-stroke" style="">
+				</circle>
+				<circle id="Oval_1_" fill="none" stroke="#6B6C6E" stroke-width="2" cx="13.5" cy="28.5" r="5.5" class="si-outline-bus-wheel si-outline-bus-stroke si-outline-stroke" style="">
+				</circle>
+				<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M19.4,29h22.2" class="si-outline-bus-main si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M0.1,25H6" class="si-outline-bus-front-light si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_3_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M32,14h29" class="si-outline-bus-window si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_4_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M41,1v13" class="si-outline-bus-window si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_5_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M52,1v13" class="si-outline-bus-window si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_6_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M7,14h14" class="si-outline-bus-window si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_7_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M17,17h3" class="si-outline-bus-handle si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_8_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M34,19h25" class="si-outline-bus-line si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_9_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M34,23h7" class="si-outline-bus-line si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_10_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M54,23h5" class="si-outline-bus-line si-outline-bus-stroke si-outline-stroke" style=""/>
+				<path id="Shape_12_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M31,1v28h-9V1H31z" class="si-outline-bus-door si-outline-bus-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 72 72" id="si-outline-compass">
+		<title class="">Compass</title>
+		<g id="Page-1" class="">
+			<g id="Compass" transform="translate(5.000000, 5.000000)" class="">
+				<path id="Shape_3_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M40,14.1    c-1.9-1-4.1-1.7-6.3-2.1L31,0l-2.7,12.1c-8.4,1.2-15.1,7.8-16.3,16.3L0,31l12.1,2.7c0.3,2.3,1,4.4,2.1,6.3" class="si-outline-compass-tray si-outline-compass-stroke si-outline-stroke" style=""/>
+				<path id="Shape_4_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M22,47.9c1.9,1,4.1,1.7,6.3,2.1    L31,62l2.7-12.1c8.4-1.2,15.1-7.8,16.3-16.3L62,31l-12.1-2.7c-0.3-2.3-1-4.4-2.1-6.3" class="si-outline-compass-compass si-outline-compass-stroke si-outline-stroke" style=""/>
+				<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M43.7,28.1C43.9,29,44,30,44,31    c0,7.2-5.8,13-13,13c-1,0-2-0.1-3-0.3" class="si-outline-compass-circle si-outline-compass-stroke si-outline-stroke" style=""/>
+				<path id="Shape_1_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M18.3,33.9C18.1,33,18,32,18,31    c0-7.2,5.8-13,13-13c1.1,0,2.1,0.1,3.1,0.4" class="si-outline-compass-circle si-outline-compass-stroke si-outline-stroke" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M4.8,57.2l22-30.4l30.4-22    l-22,30.4L4.8,57.2z" class="si-outline-compass-needle si-outline-compass-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" fill="none" stroke="#6B6C6E" stroke-width="2" cx="31" cy="31" r="2" class="si-outline-compass-screw si-outline-compass-stroke si-outline-stroke" style="">
+				</circle>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 46" id="si-outline-dashboard">
+		<title class="">Dashboard</title>
+		<g id="Page-1" class="">
+			<g id="Dashboard" transform="translate(1.000000, 1.000000)" class="">
+				<path id="Shape_1_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M62,31.2c0,17.1-62,16.7-62,0    C0,14,13.9,0,31,0S62,14,62,31.2L62,31.2z" class="si-outline-dashboard-board si-outline-dashboard-stroke si-outline-stroke" style=""/>
+				<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M28,27.5c0.6-6.4,1.7-15.5,3-15.5    s2.4,9.1,3,15.5" class="si-outline-dashboard-needle si-outline-dashboard-stroke si-outline-stroke" style=""/>
+				<path id="Shape_5_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M26.1,30H6C6,16.2,17.2,5,31,5    s25,11.2,25,25H35.7" class="si-outline-dashboard-dial si-outline-dashboard-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" fill="none" stroke="#6B6C6E" stroke-width="2" cx="31" cy="30" r="4" class="si-outline-dashboard-needle si-outline-dashboard-stroke si-outline-stroke" style="">
+				</circle>
+				<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M31,4v5" class="si-outline-dashboard-dial si-outline-dashboard-stroke si-outline-stroke" style=""/>
+				<path id="Shape_3_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M14,13l3,3" class="si-outline-dashboard-dial si-outline-dashboard-stroke si-outline-stroke" style=""/>
+				<path id="Shape_4_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M48,13l-3,3" class="si-outline-dashboard-dial si-outline-dashboard-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 57 64" id="si-outline-database-checked">
+		<title class="">Database-checked</title>
+		<g id="Page-1" class="">
+			<g id="Database-checked" transform="translate(1.000000, 1.000000)" class="">
+				<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M45,48.8V2c0-1.1-0.9-2-2-2H2    C0.9,0,0,0.9,0,2v58c0,1.1,0.9,2,2,2h41.1c1.1,0,2-0.9,2-2v-1.9" class="si-outline-database-checked-database si-outline-database-checked-stroke si-outline-stroke" style=""/>
+				<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M0,20h45" class="si-outline-database-checked-database si-outline-database-checked-stroke si-outline-stroke" style=""/>
+				<path id="Shape_1_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M0,42h44.7" class="si-outline-database-checked-database si-outline-database-checked-stroke si-outline-stroke" style=""/>
+				<path id="Shape_3_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M54.7,46.8L51.9,44    c-0.4-0.4-1-0.4-1.4,0l-7.7,7.7l-3.5-3.5c-0.4-0.4-1-0.4-1.4,0L35.1,51c-0.4,0.4-0.4,1,0,1.4l7,7c0.4,0.4,1,0.4,1.4,0l11.2-11.2    C55.1,47.9,55.1,47.2,54.7,46.8L54.7,46.8z" class="si-outline-database-checked-checked si-outline-database-checked-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 52 65" id="si-outline-feather">
+		<title class="">Feather</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Feather" transform="translate(1.000000, 2.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M7.3,51.7 C9.5,51.7 19,49.9 27.6,41.5 C28.4,40.7 23.7,39.7 24.4,38.8 C25.2,37.9 31.5,37.2 32.2,36.3 C35,32.8 37.5,29.3 39.6,25.9 C40.2,25 33.8,26.6 34.3,25.7 C34.8,24.8 42.2,21.5 42.6,20.7 C48.5,10 50.8,1.3 49.5,0.1 C48.5,-0.9 40.4,2.2 36.5,5.4 C35.7,6 30.5,15.6 29.5,16 C28.7,16.3 29.2,10.5 32.1,7.8 C28.3,9.6 23,12.5 19.4,15.8 C19.1,16.1 18.4,24.1 18.1,24.5 C17.4,25.2 17.2,18.1 16.6,18.9 C7.6,29.9 1.2,45.1 4.8,50.6 C5.1,50.5 5.7,51.7 7.3,51.7 L7.3,51.7 Z" id="Shape" class="si-outline-feather-vane si-outline-feather-stroke si-outline-stroke" style=""/>
+				<path d="M0,61.9 C1,60.9 15.8,30.9 40.4,11.9" id="Shape" class="si-outline-feather-quil si-outline-feather-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 64" id="si-outline-globe-pin-location">
+		<title class="">Globe-pin-location</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Globe-pin-location" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<g id="Group" class="">
+					<circle id="Oval" cx="31" cy="31" r="31" class="si-outline-globe-pin-location-globe si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+					<path d="M32.1,0.2 C32.1,0.2 30,2 29,3 C28,4 26,4 27,5 C28,6 28,7 28,7 L27,8 C27,8 27,9 25,10 C23,11 23,10 22,11 C21,12 21,12 20,12 C19,12 19,13 18,13 C17,13 18,9 18,9 L20,8 L22,7 L23,7 C23,7 23,5 22,5 L21,5 C21,5 21,4 20,3 L19,2" id="Shape" class="si-outline-globe-pin-location-land si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+					<path d="M10.4,8.2 L12,14 L11,16 C11,16 9,16 9,18 C9,20 8,18 9,20 C10,22 9,23 9,23 L9,24 L9,26 L6,26 C6,26 6,26 5,26 C4,26 4,26 3,27 C2,28 2,28 2,29 L2,30 L0,33" id="Shape" class="si-outline-globe-pin-location-land si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+					<path d="M0.6,36.2 C1.6,37.2 5,37 5,37 C5,37 7,36 8,37 C9,38 9,40 9,40 L9,41 C9,41 11,44 12,44 L13,44 C13,44 14,45 15,45 C16,45 17,46 17,46 C17,46 18,49 17,49 C16,49 16,50 16,50 C16,50 16,54 18,55 C20,56 22,57 23,58 C24,59 25,58 25,59 C25,60 27,62 31,62" id="Shape" class="si-outline-globe-pin-location-land si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+					<path d="M40,18 C40,17 41,15 42,15 L44,15 L48,11 C48,11 44,10 44,9 C44,8 44,7 45,6 C46,5 48,5 48,5" id="Shape" class="si-outline-globe-pin-location-land si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+					<path d="M62,34 C62,34 59,31 59,32 C59,33 58,34 58,36 C58,38 57,41 57,41 L55,39 L56,34 L53,31 L51,31 C51,31 52,33 52,34 L52,38 C52,38 50,42 50,43 C50,44 49,43 48,45 C47,47 46,47 45,49 C44,51 42,52 41,54 C40,56 39,55 39,54 C39,53 37,51 38,50 C39,49 38,48 39,47 C40,46 41,46 40,45 C39,44 38,44 38,43 L38,39 C38,39 36,36 35,37 C34,38 33,39 33,39 L29,36 L31.6,29" id="Shape" class="si-outline-globe-pin-location-land si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+				</g>
+				<path d="M40,19.1 C40,23 35.4,31 34,31 C32.6,31 28,23 28,19.1 C28,15.7 30.7,13 34,13 C37.3,13 40,15.7 40,19.1 L40,19.1 Z" id="Shape" class="si-outline-globe-pin-location-pin-location si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="34" cy="19" r="1" class="si-outline-globe-pin-location-pin-location si-outline-globe-pin-location-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 52" id="si-outline-heart-signal">
+		<title class="">Heart-signal</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Heart-signal" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M31,7.7 C26.1,-3.2 0,-4 0,15.4 C0,30.6 25.4,50 31,50 C36.6,50 62,30.6 62,15.4 C62,-5.1 31.4,-4.8 28.3,15" id="Shape" class="si-outline-heart-signal-heart si-outline-heart-signal-stroke si-outline-stroke" style=""/>
+				<path d="M12,25 L17,25 L19,13 L21,25 L28,25 L30,36.9 L32,25 L38,25 L40,18 L42,25 L51,25" id="Shape" class="si-outline-heart-signal-signal si-outline-heart-signal-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 47" id="si-outline-map-pin-location">
+		<title class="">Map-pin-location</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Map-pin-location" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M28.6,4.5 L31.5,4.8 L47.3,2.8 L59.1,4.8 C60.2,4.8 61.1,5.7 61.1,6.8 L61.1,42.2 C61.1,43.3 60.2,44.2 59.1,44.2 L47.3,42.2 L31.5,44.2 L12.3,42.2 L2,44.2 C0.9,44.2 0,43.3 0,42.2 L0,6.8 C0,5.7 0.9,4.8 2,4.8 L12.3,2.8 L16.9,3.3" id="Shape" class="si-outline-map-pin-location-map si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+				<path d="M13,2.8 L13,42.2" id="Shape" class="si-outline-map-pin-location-line si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+				<path d="M32,3.8 L32,43.2" id="Shape" class="si-outline-map-pin-location-line si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+				<path d="M47,3.8 L47,43.2" id="Shape" class="si-outline-map-pin-location-line si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+				<path d="M28,5.7 C28,9.4 23.4,17 22,17 C20.6,17 16,9.4 16,5.7 C16,2.5 18.7,0 22,0 C25.3,0 28,2.6 28,5.7 L28,5.7 Z" id="Shape" class="si-outline-map-pin-location-pin-location si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="22" cy="6" r="1" class="si-outline-map-pin-location-pin-location si-outline-map-pin-location-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 54" id="si-outline-message-dot">
+		<title class="">Message-dot</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Message-dot" transform="translate(1.000000, 2.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M18.1,39.2 C16.7,38.8 15.3,38.3 14.1,37.7 C5.6,34.1 0,27.7 0,20.4 C0,9.1 13.6,-0.1 30.5,-0.1 C47.3,-0.1 61.2,9.1 61.2,20.4 C61.2,31.7 47.4,40.9 30.5,40.9 C29.7,40.9 28.8,40.9 28,40.8 L28,40.8 L8.1,49.9 L14.1,37.8" id="Shape" class="si-outline-message-dot-message-bubble si-outline-message-dot-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="20.5" cy="21.5" r="1.5" class="si-outline-message-dot-dot si-outline-message-dot-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="31.5" cy="21.5" r="1.5" class="si-outline-message-dot-dot si-outline-message-dot-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="41.5" cy="21.5" r="1.5" class="si-outline-message-dot-dot si-outline-message-dot-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 66 42" id="si-outline-mountains">
+		<title class="">Mountains</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Mountains" transform="translate(2.000000, 2.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M18,38.9 L0,38.9 L22.9,0 L32.9,17" id="Shape" class="si-outline-mountains-mountain2 si-outline-mountains-mountain si-outline-mountains-stroke si-outline-stroke" style=""/>
+				<path d="M39.9,6 L61.8,38.9 L18,38.9 L39.9,6 Z" id="Shape" class="si-outline-mountains-mountain1 si-outline-mountains-mountain si-outline-mountains-stroke si-outline-stroke" style=""/>
+				<path d="M16.9,10.5 L20.9,14 L24.9,11 L30.9,14" id="Shape" class="si-outline-mountains-wave-line2 si-outline-mountains-wave-line si-outline-mountains-stroke si-outline-stroke" style=""/>
+				<path d="M46.9,16 L42.9,19.9 L39.9,17 L34.9,19.9 L32.9,17" id="Shape" class="si-outline-mountains-wave-line1 si-outline-mountains-wave-line si-outline-mountains-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 56 65" id="si-outline-oxygen">
+		<title class="">Oxygen</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Oxygen" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M11,11.3 L11,6.5 L7,6.5 L7,11.3 C3,12.1 0.1,15.5 0.1,19.6 L0.1,58 C0.1,62.7 4,62.1 8.8,62.1 L9.3,62.1 C14.1,62.1 18,62.7 18,58 L18,19.6 C17.9,15.4 14.9,12.1 11,11.3 L11,11.3 Z" id="Shape" class="si-outline-oxygen-tank si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M0.9,26 L16.9,26" id="Shape" class="si-outline-oxygen-strap si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M0.9,48 L16.9,48" id="Shape" class="si-outline-oxygen-strap si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M35.1,11.3 L35.1,6.5 L31,6.5 L31,11.3 C27,12.1 24,15.5 24,19.6 L24,58 C24,62.7 28,62.1 32.8,62.1 L33.3,62.1 C38.2,62.1 42.1,62.7 42.1,58 L42.1,19.6 C42.1,15.4 39.1,12.1 35.1,11.3 L35.1,11.3 Z" id="Shape" class="si-outline-oxygen-tank si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M24.1,26 L41.6,26" id="Shape" class="si-outline-oxygen-strap si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M24.1,48 L41.6,48" id="Shape" class="si-outline-oxygen-strap si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<rect id="Rectangle-path" x="4" y="3" width="34.1" height="3" class="si-outline-oxygen-flow-adjustment-control si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<rect id="Rectangle-path" x="18" y="24" width="6" height="5.1" class="si-outline-oxygen-lock si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<rect id="Rectangle-path" x="18" y="47" width="6" height="5.1" class="si-outline-oxygen-lock si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M7,0 L10.9,0" id="Shape" class="si-outline-oxygen-valve si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M31,0 L35,0" id="Shape" class="si-outline-oxygen-valve si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M8.9,0 L8.9,3" id="Shape" class="si-outline-oxygen-valve si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M33,0 L33,3" id="Shape" class="si-outline-oxygen-valve si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M36,8.1 C36,8.1 51,6.5 51,24.8" id="Shape" class="si-outline-oxygen-hose si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<circle id="Oval" cx="51" cy="28" r="3" class="si-outline-oxygen-mouthpiece si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M51,30.9 L51,35" id="Shape" class="si-outline-oxygen-mouthpiece si-outline-oxygen-stroke si-outline-stroke" style=""/>
+				<path d="M49,35 L53,35" id="Shape" class="si-outline-oxygen-mouthpiece si-outline-oxygen-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 64 58" id="si-outline-swimming-ladder">
+		<title class="">Swimming-ladder</title>
+		<defs class=""/>
+		<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g id="Swimming-ladder" transform="translate(1.000000, 1.000000)" stroke="#6B6C6E" stroke-width="2" class="">
+				<path d="M21.9,35.1 L39.9,35.1" id="Shape" class="si-outline-swimming-ladder-step si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M22.1,19 L39.8,19" id="Shape" class="si-outline-swimming-ladder-step si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M22.1,27.1 L39.8,27.1" id="Shape" class="si-outline-swimming-ladder-step si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M39.9,11 L21.9,11" id="Shape" class="si-outline-swimming-ladder-step si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M21.9,38.8 L21.9,4 C21.9,1.8 23.7,0 25.9,0 C28.1,0 29.9,1.8 29.9,4" id="Shape" class="si-outline-swimming-ladder-rail si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M39.9,39.1 L39.9,4 C39.9,1.8 41.7,0 43.9,0 C46.1,0 47.9,1.8 47.9,4" id="Shape" class="si-outline-swimming-ladder-rail si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M-0.1,41.1 C-0.1,41.1 3,36.7 8.9,41.1 C14.8,45.5 17.9,41.1 17.9,41.1 C17.9,41.1 21.1,36.7 26.9,41.1 C32.7,45.5 35.9,41.1 35.9,41.1 C35.9,41.1 39.2,36.8 44.9,41.1 C50.7,45.4 53.9,41.1 53.9,41.1 C53.9,41.1 57.7,36.7 61.9,41.1" id="Shape" class="si-outline-swimming-ladder-wave si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M-0.1,47.1 C-0.1,47.1 3,42.7 8.9,47.1 C14.8,51.5 17.9,47.1 17.9,47.1 C17.9,47.1 21.1,42.7 26.9,47.1 C32.7,51.5 35.9,47.1 35.9,47.1 C35.9,47.1 39.2,42.8 44.9,47.1 C50.7,51.4 53.9,47.1 53.9,47.1 C53.9,47.1 57.7,42.7 61.9,47.1" id="Shape" class="si-outline-swimming-ladder-wave si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+				<path d="M-0.1,53.1 C-0.1,53.1 3,48.7 8.9,53.1 C14.8,57.5 17.9,53.1 17.9,53.1 C17.9,53.1 21.1,48.7 26.9,53.1 C32.7,57.5 35.9,53.1 35.9,53.1 C35.9,53.1 39.2,48.8 44.9,53.1 C50.7,57.4 53.9,53.1 53.9,53.1 C53.9,53.1 57.7,48.7 61.9,53.1" id="Shape" class="si-outline-swimming-ladder-wave si-outline-swimming-ladder-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 65 61" id="si-outline-train">
+		<title class="">Train</title>
+		<path id="Shape_5_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" d="M55,55.9  h7.7L58,42v-8c-0.3-1.1-1-5-1-5v-2h1c1.1,0,1-0.9,1-2v-1c0-1.1,0.1-2-1-2h-7c-1.1,0-1,0.9-1,2v1c0,1.1-0.1,2,1,2h1v5h-7v-3h-4v3h-5  v-3h-4v3h-5v-8h0.9c1.1,0,1-0.9,1-2v-3c0-1.1,0.1-2-1-2H4c-1.1,0-1,0.9-1,2v3c0,1.1-0.1,2,1,2h1v13.9H2c-1.1,0-1,0.9-1,2v9  c0,1.1-0.1,2,1,2h3" class="si-outline-train-train si-outline-train-stroke si-outline-stroke" style=""/>
+		<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M39.8,54.9h4" class="si-outline-train-train si-outline-train-stroke si-outline-stroke" style=""/>
+		<path id="Shape_1_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M22.103,54.9H28" class="si-outline-train-train si-outline-train-stroke si-outline-stroke" style=""/>
+		<rect id="Rectangle-path" x="9" y="25" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" width="5" height="11.9" class="si-outline-train-window si-outline-train-stroke si-outline-stroke" style="">
+		</rect>
+		<rect id="Rectangle-path_1_" x="18" y="25" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" width="5" height="7" class="si-outline-train-window si-outline-train-stroke si-outline-stroke" style="">
+		</rect>
+		<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" d="  M21.9,46.9h37.8" class="si-outline-train-line si-outline-train-stroke si-outline-stroke" style=""/>
+		<path id="Shape_3_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M52.8,11.4h-0.1  c0.1-0.3,0.1-0.6,0.1-0.9c0-1.6-1.1-2.9-2.6-3.2c-0.2-1.8-1.8-3.2-3.8-3.2H46C45.2,2.3,43.3,1,41.1,1c-3,0-5.1,1.8-5.1,4.7  c0,3.7,3,5.1,5.2,5.1c0.6,1.1,1.7,1.8,3.1,1.8c0.7,0,1.4-0.2,2-0.6c0.6,1.1,1.7,1.9,3.1,1.9c0.6,0,1.2-0.1,1.6-0.4  c0.1,0.9,0.9,1.6,1.8,1.6c1,0,1.9-0.8,1.9-1.8C54.6,12.2,53.8,11.4,52.8,11.4L52.8,11.4z" class="si-outline-train-smoke si-outline-train-stroke si-outline-stroke" style=""/>
+		<path id="Shape_4_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" d="M14,42  h44" class="si-outline-train-line si-outline-train-stroke si-outline-stroke" style=""/>
+		<circle id="Oval" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" cx="14" cy="51" r="9" class="si-outline-train-wheel si-outline-train-stroke si-outline-stroke" style="">
+		</circle>
+		<circle id="Oval_1_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" cx="34" cy="54" r="6" class="si-outline-train-wheel si-outline-train-stroke si-outline-stroke" style="">
+		</circle>
+		<circle id="Oval_2_" fill="none" stroke="#6B6C6E" stroke-width="2" stroke-linejoin="round" cx="50" cy="54" r="6" class="si-outline-train-wheel si-outline-train-stroke si-outline-stroke" style="">
+		</circle>
+	</symbol>
+	<symbol viewBox="0 0 56 65" id="si-outline-boat">
+		<title class="">Boat</title>
+		<g id="Page-1" class="">
+			<g id="Boat" transform="translate(2.000000, 2.000000)" class="">
+				<path id="Shape" fill="none" stroke="#6B6C6E" stroke-width="2" d="M40,62H5.8c-1.3,0-5.9-7.1-5.9-8    s1-1.4,1-1.4l50-9.4c1.3,0,2,0.9,2,2.4C53,47,48.3,62,40,62L40,62z" class="si-outline-boat-main si-outline-boat-stroke si-outline-stroke" style=""/>
+				<path id="Shape_2_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M23,42.2L4.7,47.1    c0,0,15.3-13,10.6-43.6" class="si-outline-boat-jib si-outline-boat-stroke si-outline-stroke" style=""/>
+				<path id="Shape_1_" fill="none" stroke="#6B6C6E" stroke-width="2" d="M22.4,42.4L46,36.5    c0,0-4.7-29.4-33-36.5C13,0,28.3,17.7,22.4,42.4L22.4,42.4z" class="si-outline-boat-mailsail si-outline-boat-stroke si-outline-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 24" id="si-nimble-emoticon-alone">
+		<title class="">Emoticon-alone</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.531" cy="10.531" r="10.531" class="si-nimble-emoticon-alone-face si-nimble-emoticon-alone-thick si-nimble-emoticon-alone-stroke si-nimble-stroke" style=""/>
+				<path d="M18,4 L12,4" class="si-nimble-emoticon-alone-eyes si-nimble-emoticon-alone-thick si-nimble-emoticon-alone-stroke si-nimble-stroke" style=""/>
+				<path d="M8,5 L3,9" class="si-nimble-emoticon-alone-eyes si-nimble-emoticon-alone-thick si-nimble-emoticon-alone-stroke si-nimble-stroke" style=""/>
+				<path d="M10,17 L13,12 L18,13" class="si-nimble-emoticon-alone-mouth si-nimble-emoticon-alone-thick si-nimble-emoticon-alone-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 23" id="si-nimble-emoticon-confident">
+		<title class="">Emoticon-confident</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.458" cy="10.458" r="10.458" class="si-nimble-emoticon-confident-face si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="7" cy="8.5" rx="1" ry="1.5" class="si-nimble-emoticon-confident-eyes si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="14" cy="8.5" rx="1" ry="1.5" class="si-nimble-emoticon-confident-eyes si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+				<path d="M3,7 L9,7" class="si-nimble-emoticon-confident-eyebrows si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+				<path d="M12,7 L18,7" class="si-nimble-emoticon-confident-eyebrows si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+				<path d="M17,11 C17,14.866 13.866,18 10,18" class="si-nimble-emoticon-confident-mouth si-nimble-emoticon-confident-thick si-nimble-emoticon-confident-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 23" id="si-nimble-emoticon-confushed">
+		<title class="">Emoticon-confushed</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.484" cy="10.484" r="10.484" class="si-nimble-emoticon-confushed-face si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="14" cy="7.5" rx="1" ry="1.5" class="si-nimble-emoticon-confushed-eyes si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""/>
+				<path d="M7,7 L7,13" class="si-nimble-emoticon-confushed-line si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""/>
+				<path d="M13,18 C13,16.343 16.687,15 20,15" class="si-nimble-emoticon-confushed-mouth si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 24" id="si-nimble-emoticon-crying">
+		<title class="">Emoticon-crying</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.51" cy="10.51" r="10.51" class="si-nimble-emoticon-crying-face si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+				<circle cx="7" cy="7" r="1" class="si-nimble-emoticon-crying-eyes si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+				<circle cx="14" cy="7" r="1" class="si-nimble-emoticon-crying-eyes si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+				<path d="M6,17 C6,15.343 8.015,14 10.5,14 C12.985,14 15,15.343 15,17" class="si-nimble-emoticon-crying-mouth si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+				<path d="M7,8 L7,12" class="si-nimble-emoticon-crying-cry si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+				<path d="M14,8 L14,12" class="si-nimble-emoticon-crying-cry si-nimble-emoticon-crying-thick si-nimble-emoticon-crying-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 23" id="si-nimble-emoticon-curly-lips">
+		<title class="">Emoticon-curly-lips</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.5" cy="10.5" r="10.5" class="si-nimble-emoticon-curly-lips-face si-nimble-emoticon-curly-lips-thick si-nimble-emoticon-curly-lips-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="7" cy="7.5" rx="1" ry="1.5" class="si-nimble-emoticon-curly-lips-eyes si-nimble-emoticon-curly-lips-thick si-nimble-emoticon-curly-lips-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="14" cy="7.5" rx="1" ry="1.5" class="si-nimble-emoticon-curly-lips-eyes si-nimble-emoticon-curly-lips-thick si-nimble-emoticon-curly-lips-stroke si-nimble-stroke" style=""/>
+				<path d="M16,13.92 C14.167,17.92 12.334,14.92 10.501,14.92 C8.668,14.92 6.835,17.92 5.002,13.92" class="si-nimble-emoticon-curly-lips-mouth si-nimble-emoticon-curly-lips-thick si-nimble-emoticon-curly-lips-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 24" id="si-nimble-emoticon-depressed">
+		<title class="">Emoticon-depressed</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<circle cx="10.531" cy="10.531" r="10.531" class="si-nimble-emoticon-depressed-face si-nimble-emoticon-depressed-thick si-nimble-emoticon-depressed-stroke si-nimble-stroke" style=""/>
+				<path d="M7.707,5.879 C8.488,6.66 8.712,7.702 8.207,8.207 C7.702,8.713 6.66,8.488 5.879,7.707" class="si-nimble-emoticon-depressed-eyes si-nimble-emoticon-depressed-thick si-nimble-emoticon-depressed-stroke si-nimble-stroke" style=""/>
+				<path d="M15.121,7.707 C14.34,8.488 13.298,8.713 12.793,8.207 C12.287,7.702 12.512,6.66 13.293,5.879" class="si-nimble-emoticon-depressed-eyes si-nimble-emoticon-depressed-thick si-nimble-emoticon-depressed-stroke si-nimble-stroke" style=""/>
+				<path d="M6,17 C6,15.343 8.014,14 10.498,14 C12.982,14 14.996,15.343 14.996,17" class="si-nimble-emoticon-depressed-mouth si-nimble-emoticon-depressed-thick si-nimble-emoticon-depressed-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 23" id="si-nimble-flower">
+		<title class="">Flower</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<path d="M10.539,21 C8.404,21 6.604,20.01 6.354,18.697 L6.143,17.59 L5.084,17.977 C4.86,18.059 4.612,18.101 4.348,18.101 C3.111,18.101 1.695,17.156 0.827,15.747 C0.12,14.601 -0.13,13.364 0.139,12.353 C0.264,11.89 0.502,11.5 0.832,11.226 L1.715,10.492 L0.832,9.756 C0.504,9.483 0.266,9.094 0.142,8.631 C-0.129,7.619 0.122,6.382 0.829,5.235 C1.695,3.826 3.11,2.88 4.35,2.88 C4.613,2.88 4.861,2.923 5.086,3.004 L6.145,3.388 L6.354,2.284 C6.604,0.971 8.403,-0.02 10.539,-0.02 C12.676,-0.02 14.475,0.971 14.722,2.286 L14.931,3.394 L15.991,3.007 C16.218,2.925 16.466,2.882 16.729,2.882 C17.967,2.882 19.382,3.828 20.251,5.237 C20.957,6.383 21.206,7.623 20.936,8.633 C20.813,9.095 20.575,9.483 20.248,9.755 L19.367,10.489 L20.248,11.224 C20.576,11.499 20.815,11.888 20.938,12.351 C21.208,13.363 20.958,14.599 20.25,15.745 C19.384,17.154 17.97,18.1 16.732,18.1 C16.468,18.1 16.218,18.057 15.989,17.974 L14.931,17.588 L14.721,18.695 C14.474,20.009 12.676,21 10.539,21 L10.539,21 Z" class="si-nimble-flower-petal si-nimble-flower-thick si-nimble-flower-stroke si-nimble-stroke" style=""/>
+				<ellipse cx="10.456" cy="10.541" rx="2.456" ry="2.541" class="si-nimble-flower-stigma si-nimble-flower-thick si-nimble-flower-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 16 23" id="si-nimble-lock">
+		<title class="">Lock</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<path d="M1,10 L1,6.136 C1,2.747 3.687,0 7,0 L7,0 C10.314,0 13,2.747 13,6.136 L13,10" class="si-nimble-lock-shackle si-nimble-lock-thick si-nimble-lock-stroke si-nimble-stroke" style=""/>
+				<path d="M14,20 C14,20.553 13.553,21 13,21 L1,21 C0.447,21 0,20.553 0,20 L0,11 C0,10.448 0.447,10 1,10 L13,10 C13.553,10 14,10.448 14,11 L14,20 L14,20 Z" class="si-nimble-lock-main si-nimble-lock-thick si-nimble-lock-stroke si-nimble-stroke" style=""/>
+				<path d="M8,15 C8,14.448 7.553,14 7,14 C6.447,14 6,14.448 6,15 C6,15.468 6.328,15.843 6.762,15.952 L6,18 L8,18 L7.238,15.952 C7.672,15.843 8,15.468 8,15 L8,15 Z" class="si-nimble-lock-keyway si-nimble-lock-thick si-nimble-lock-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 24" id="si-nimble-magnifier">
+		<title class="">Magnifier</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill="none" stroke="#414042" stroke-width="2" d="M12.08,0    C7.103,0,3.07,4.033,3.07,9.01c0,1.77,0.518,3.415,1.398,4.808l-4.252,4.253c-0.282,0.281-0.195,0.826,0.196,1.217l1.414,1.415    c0.391,0.391,0.937,0.479,1.218,0.196l4.259-4.259c1.386,0.869,3.02,1.38,4.776,1.38c4.976,0,9.01-4.034,9.01-9.01    C21.09,4.033,17.056,0,12.08,0L12.08,0z" class="si-nimble-magnifier-main si-nimble-magnifier-thick si-nimble-magnifier-stroke si-nimble-stroke" style=""/>
+				<ellipse fill="none" stroke="#414042" stroke-width="2" cx="12.016" cy="8.984" rx="6.016" ry="5.984" class="si-nimble-magnifier-glass si-nimble-magnifier-thick si-nimble-magnifier-stroke si-nimble-stroke" style="">
+				</ellipse>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 24" id="si-nimble-mail-open">
+		<title class="">Mail-open</title>
+		<g class="">
+			<g transform="translate(1.000000, 2.000000)" class="">
+				<path fill="none" stroke="#434343" stroke-width="2" d="M21,20c0,0.552-0.427,1-0.955,1    H0.954C0.427,21,0,20.552,0,20V8c0-0.552,0.427-1,0.954-1L10.5,0l9.545,7C20.573,7,21,7.448,21,8V20L21,20z" class="si-nimble-mail-open-main si-nimble-mail-open-thick si-nimble-mail-open-stroke si-nimble-stroke" style=""/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M0.954,8l6.728,7h5.636l6.727-7    " class="si-nimble-mail-open-line si-nimble-mail-open-thick si-nimble-mail-open-stroke si-nimble-stroke" style=""/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M4,18l2.637-3" class="si-nimble-mail-open-line si-nimble-mail-open-thick si-nimble-mail-open-stroke si-nimble-stroke" style=""/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M17,18l-2.637-3" class="si-nimble-mail-open-line si-nimble-mail-open-thick si-nimble-mail-open-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 24 25" id="si-nimble-message-dot">
+		<title class="">Message-dot</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(2.000000, 2.000000)" stroke="#414042" stroke-width="2" class="">
+				<path d="M8.898,15.6 L7.582,15.321 C3.081,14.368 -0.063,11.267 -0.063,7.781 C-0.063,3.457 4.639,-0.061 10.418,-0.061 C16.197,-0.061 20.9,3.457 20.9,7.781 C20.9,10.969 18.35,13.812 14.403,15.027 L14.288,15.062 L6.243,20 L8.898,15.6 L8.898,15.6 Z" class="si-nimble-message-dot-message-box si-nimble-message-dot-thick si-nimble-message-dot-stroke si-nimble-stroke" style=""/>
+				<path d="M7,8 L9,8" class="si-nimble-message-dot-dot si-nimble-message-dot-thick si-nimble-message-dot-stroke si-nimble-stroke" style=""/>
+				<path d="M10,8 L12,8" class="si-nimble-message-dot-dot si-nimble-message-dot-thick si-nimble-message-dot-stroke si-nimble-stroke" style=""/>
+				<path d="M13,8 L15,8" class="si-nimble-message-dot-dot si-nimble-message-dot-thick si-nimble-message-dot-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 23" id="si-nimble-movie-projector">
+		<title class="">Movie-projector</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+				<path d="M18,20 C18,20.553 17.553,21 17,21 L1,21 C0.447,21 0,20.553 0,20 L0,10 C0,9.447 0.447,9 1,9 L17,9 C17.553,9 18,9.447 18,10 L18,13 L21,11 L21,19 L18,17 L18,20 L18,20 Z" class="si-nimble-movie-projector-main si-nimble-movie-projector-thick si-nimble-movie-projector-stroke si-nimble-stroke" style=""/>
+				<circle cx="14" cy="3" r="3" class="si-nimble-movie-projector-reel si-nimble-movie-projector-thick si-nimble-movie-projector-stroke si-nimble-stroke" style=""/>
+				<circle cx="5" cy="3" r="3" class="si-nimble-movie-projector-reel si-nimble-movie-projector-thick si-nimble-movie-projector-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 25 23" id="si-nimble-music-note">
+		<title class="">Music-note</title>
+		<g class="">
+			<path fill="none" stroke="#414042" stroke-width="2" d="M22,15.662   C21.981,15.571,22,2,22,2c0-0.553-0.447-1-1-1L8,4C7.447,4,7,4.447,7,5v10.034c-0.675-0.133-1.408-0.152-2.164-0.001   c-2.454,0.49-4.136,2.425-3.758,4.317c0.379,1.896,2.676,3.033,5.129,2.542c2.259-0.451,3.842-2.125,3.787-3.866   C9.995,18.017,10,18.009,10,18V8.591l9-2.162v6.69c-0.671-0.127-1.398-0.144-2.149,0.006c-2.465,0.493-4.156,2.429-3.778,4.321   c0.379,1.896,2.686,3.032,5.149,2.538C20.688,19.492,22,17.906,22,15.662L22,15.662z" class="si-nimble-music-note-music-note si-nimble-music-note-thick si-nimble-music-note-stroke si-nimble-stroke" style=""/>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 23" id="si-nimble-pencil">
+		<title class="">Pencil</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill="none" stroke="#414042" stroke-width="2" d="M0.131,19.971    c0.177-0.432,1.952-6.002,1.952-6.002L15.547,0.505c0.667-0.667,2.059-0.691,2.787,0.039l2.122,2.101    c0.718,0.717,0.729,2.056,0.008,2.778L7.005,18.881c0,0-5.301,1.636-6.045,1.955C0.221,21.151-0.189,20.746,0.131,19.971    L0.131,19.971z" class="si-nimble-pencil-pencil si-nimble-pencil-thick si-nimble-pencil-stroke si-nimble-stroke" style=""/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M13.007,2.998l5,5" class="si-nimble-pencil-line si-nimble-pencil-thick si-nimble-pencil-stroke si-nimble-stroke" style=""/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 23 17" id="si-nimble-piano">
+		<title class="">Piano</title>
+		<g class="">
+			<g transform="translate(1.000000, 1.000000)" class="">
+				<path fill="none" stroke="#414042" stroke-width="2" d="M0.146,6.026h20" class="si-nimble-piano-line si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M5,6.999V11" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M6,6.999V14" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M11,6.999V14" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M10,6.999V11" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M16,6.999V14" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M15,6.999V11" class="si-nimble-piano-keyboar si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke"/>
+				<path fill="none" stroke="#414042" stroke-width="2" d="M1,15c-0.553,0-1-0.447-1-1V1    c0-0.553,0.447-1,1-1h19c0.553,0,1,0.447,1,1v13c0,0.553-0.447,1-1,1H1L1,15z" class="si-nimble-piano-keyboard si-nimble-piano si-nimble-piano-thick si-nimble-piano-stroke si-nimble-stroke si-nimble-thick"/>
+			</g>
+		</g>
+	</symbol>
+	<symbol viewBox="0 0 25 25" id="si-nimble-spanner">
+		<title class="">Spanner</title>
+		<defs class=""/>
+		<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+			<path d="M11.104,15.626 C11.208,15.58 11.068,15.761 11.154,15.675 L16.644,10.186 C18.369,10.957 20.586,10.485 21.853,9.219 C22.823,8.249 23.176,6.873 22.941,5.506 C22.941,5.506 19.645,9.069 17.288,6.713 C14.931,4.356 18.498,1.06 18.498,1.06 C17.13,0.825 15.753,1.177 14.782,2.148 C13.516,3.415 13.045,5.632 13.815,7.358 L8.326,12.847 C8.24,12.932 8.421,12.793 8.375,12.897 C6.634,12.089 4.398,12.532 3.116,13.814 C2.146,14.784 1.793,16.16 2.027,17.527 C2.027,17.527 5.324,13.964 7.681,16.32 C10.038,18.678 6.471,21.973 6.471,21.973 C7.838,22.208 9.216,21.856 10.187,20.885 C11.469,19.603 11.911,17.367 11.104,15.626 L11.104,15.626 Z" stroke="#414042" stroke-width="2" class="si-nimble-spanner-spanner si-nimble-spanner-thick si-nimble-spanner-stroke si-nimble-stroke" style=""/>
+		</g>
+	</symbol>
+</svg>

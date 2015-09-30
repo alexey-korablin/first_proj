@@ -1,0 +1,18 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" class="si-nimble-magnifier">
+<title class="">Magnifier</title>
+
+<g class="">
+	<g transform="translate(1.000000, 1.000000)" class="">
+		<path fill="none" stroke="#414042" stroke-width="2" d="M12.08,0
+			C7.103,0,3.07,4.033,3.07,9.01c0,1.77,0.518,3.415,1.398,4.808l-4.252,4.253c-0.282,0.281-0.195,0.826,0.196,1.217l1.414,1.415
+			c0.391,0.391,0.937,0.479,1.218,0.196l4.259-4.259c1.386,0.869,3.02,1.38,4.776,1.38c4.976,0,9.01-4.034,9.01-9.01
+			C21.09,4.033,17.056,0,12.08,0L12.08,0z" class="si-nimble-magnifier-main si-nimble-magnifier-thick si-nimble-magnifier-stroke si-nimble-stroke" style=""></path>
+		
+			<ellipse fill="none" stroke="#414042" stroke-width="2" cx="12.016" cy="8.984" rx="6.016" ry="5.984" class="si-nimble-magnifier-glass si-nimble-magnifier-thick si-nimble-magnifier-stroke si-nimble-stroke" style="">
+		</ellipse>
+	</g>
+</g>
+</svg>

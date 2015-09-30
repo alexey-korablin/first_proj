@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="43px" height="64px" viewBox="0 0 43 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-duo-feet">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Feet</title>
+    
+    <defs class=""></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Feet" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <path d="M15.573,24.202 C15.573,24.202 17.87,18.351 16.615,12.071 C15.362,5.788 14.408,2.675 11.602,0.807 C10.336,-0.035 4.29,-1.578 1.995,4.92 C-0.304,11.419 -1.781,16.149 4.339,27.013 C4.34,27.017 9.517,25.282 15.573,24.202 L15.573,24.202 Z" id="Shape" stroke="#6D6E71" class="si-duo-feet-feet-left si-duo-feet-feet si-duo-feet-stroke si-duo-feet-base si-duo-stroke si-duo-base" style=""></path>
+            <path d="M16.756,28.816 L5.588,31.162 C5.588,31.162 6.178,37.127 7.546,40.537 C8.914,43.946 12.052,44.585 14.99,43.518 C17.932,42.455 19.299,39.896 18.907,37.126 C18.52,34.355 16.756,28.816 16.756,28.816 L16.756,28.816 Z" id="Shape" stroke="#6D6E71" class="si-duo-feet-feet-left si-duo-feet-feet si-duo-feet-stroke si-duo-feet-base si-duo-stroke si-duo-base" style=""></path>
+            <path d="M25.479,41.696 C25.479,41.696 23.188,35.963 24.437,29.808 C25.687,23.651 26.638,20.6 29.435,18.771 C30.7,17.946 36.724,16.434 39.013,22.801 C41.305,29.17 42.777,33.805 36.679,44.45 C36.675,44.454 31.515,42.755 25.479,41.696 L25.479,41.696 Z" id="Shape" stroke="#1396D7" class="si-duo-feet-feet-right si-duo-feet-feet si-duo-feet-stroke si-duo-feet-accent si-duo-stroke si-duo-accent" style=""></path>
+            <path d="M24.269,46.727 L35.643,49.073 C35.643,49.073 35.045,55.037 33.648,58.446 C32.253,61.853 29.058,62.492 26.064,61.425 C23.07,60.363 21.675,57.803 22.076,55.036 C22.471,52.264 24.269,46.727 24.269,46.727 L24.269,46.727 Z" id="Shape" stroke="#1396D7" class="si-duo-feet-feet-right si-duo-feet-feet si-duo-feet-stroke si-duo-feet-accent si-duo-stroke si-duo-accent" style=""></path>
+        </g>
+    </g>
+</svg>

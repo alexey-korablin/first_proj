@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-nimble-emoticon-confushed">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Emoticon-confushed</title>
+    
+    <defs class=""></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g transform="translate(1.000000, 1.000000)" stroke="#414042" stroke-width="2" class="">
+            <circle cx="10.484" cy="10.484" r="10.484" class="si-nimble-emoticon-confushed-face si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""></circle>
+            <ellipse cx="14" cy="7.5" rx="1" ry="1.5" class="si-nimble-emoticon-confushed-eyes si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""></ellipse>
+            <path d="M7,7 L7,13" class="si-nimble-emoticon-confushed-line si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""></path>
+            <path d="M13,18 C13,16.343 16.687,15 20,15" class="si-nimble-emoticon-confushed-mouth si-nimble-emoticon-confushed-thick si-nimble-emoticon-confushed-stroke si-nimble-stroke" style=""></path>
+        </g>
+    </g>
+</svg>
