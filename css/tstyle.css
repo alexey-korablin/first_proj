@@ -34,7 +34,9 @@ html, body {
 
 .jumbotron {
   height: 800px;
-  background: url("/home/loki/Документы/codecademy/15_real-world/temp/img/sea-6.jpg") no-repeat center center;
+  /*background: url("/home/loki/Документы/codecademy/15_real-world/temp/img/sea-6.jpg") no-repeat center center;*/
+  background: url(f:/aLEX/web-devs/15rw/first_proj/img/sea-6.jpg) no-repeat center center;
+  -webkit-background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover; 
@@ -64,4 +66,44 @@ html, body {
   text-align: center;
   text-transform: uppercase;
   margin-top: 80px;
+}
+
+.supporting {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.supporting .col {
+  float: left;
+  width: 33%;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.supporting img {
+  height: 32px;
+}
+
+.supporting h2 a {
+  text-decoration: none;
+  color: #165A6C;
+  text-transform: uppercase;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.supporting p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 50px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.footer {
+  height: 70px;
+  background-color: #165A6C;
 }
