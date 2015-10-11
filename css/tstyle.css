@@ -19,9 +19,10 @@ html, body {
 }
 
 .nav li {
-  font-family: Arial, sans-serif;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 14px;
+  letter-spacing: 2px;
   display: inline;
   padding: 0 10px;
 }
@@ -30,6 +31,7 @@ html, body {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none; 
+  font-family: "PT Sans Narrow", Arial, sans-serif;
 }
 
 .jumbotron {
@@ -51,21 +53,21 @@ html, body {
 
 .main h1 {
   color: #165A6C;
-  font-family: Arial, sans-serif;
+  font-family: "Tkachenko Sketch 4F Bold", Arial, sans-serif;
   font-weight: 600;
-  font-size: 70px;
+  font-size: 100px;
   margin-top: 0;
   text-transform: uppercase;
 }
 
 .main p {
   color: #165A6C;
-  font-family: Arial, sans-serif;
+  font-family: "Tkachenko Sketch 4F Bold", Arial, sans-serif;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 52px;
   text-align: center;
   text-transform: uppercase;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .supporting {
@@ -84,19 +86,34 @@ html, body {
   height: 32px;
 }
 
-.supporting h2 a {
+.supporting h2 {
   text-decoration: none;
   color: #165A6C;
   text-transform: uppercase;
-  font-size: 23px;
+  font-size: 25px;
+  letter-spacing: 1px;
   font-weight: 600;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
 }
 
 .supporting p {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
+  letter-spacing: 1px;
   line-height: 20px;
   padding: 0 50px;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  margin-bottom: 50px;
+}
+
+.btn {
+  border: 1px solid #165A6C;
+  border-radius: 4px;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  text-decoration: none;
+  color: #165A6C;
+  padding: 15px 20px;
+
 }
 
 .clearfix {
@@ -106,4 +123,39 @@ html, body {
 .footer {
   height: 70px;
   background-color: #165A6C;
+  padding: 1px 0;
+}
+
+.footer p {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  text-align: bottom;
+  margin-top: 40px
+}
+
+.footer .container {
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+@media (max-width: 500px) {
+  .main h1 {
+    font-size: 50px;
+    padding: 0 40px;
+  }
+
+  .supporting .col {
+    width: 100%;
+  }
+}
+
+@font-face {
+  font-family: "Tkachenko Sketch 4F Bold";
+  src: url(fonts/PahMALeN.ttf);
+}
+
+@font-face {
+  font-family: "PT Sans Narrow";
+  src: url(fonts/aSOOYBgy.ttf);
 }
